@@ -10,22 +10,22 @@
 * 精简编译版本即为对应频道的一种爬墙插件+默认插件             
 * 多插件编译版本即为对应频道的一种爬墙插件+较多实用插件               
 * 下面三大频道的固件编译自各个爬墙插件作者原生适配自己爬墙插件的op源码分叉，避免了杂交爬墙插件和op源码分叉可能导致的bug，最大限度发挥各个爬墙插件作者的本来意图，保证你反馈的bug各个爬墙插件作者最大可能复现并解决！          
-* 下方ssrpOpenWRT、passwallOpenWRT固件，分别为ssrp、passwall插件开发者认证的半官方发布固件       
+* 下方ssrpOpenWrt、passwallOpenWrt固件，分别为ssrp、passwall插件开发者认证的半官方发布固件       
 ———————————————————-                 
-【多插件版本采用 [ssrp](https://github.com/fw876/helloworld) 所属 [原生OpenWRT分叉](https://github.com/coolsnowwolf/lede) 。推荐小白及不爱折腾用户使用】：              
-* [x86_64 ssrpOpenWRT软路由固件频道](https://t.me/ssrpOpenWRT)      
+【多插件版本采用 [ssrp](https://github.com/fw876/helloworld) 所属 [原生OpenWrt分叉](https://github.com/coolsnowwolf/lede) 。推荐小白及不爱折腾用户使用】：              
+* [x86_64 ssrpOpenWrt软路由固件频道](https://t.me/ssrpOpenWRT)      
 或      
-* [x86_64 ssrpOpenWRT软路由固件GitHub同步分发地址](https://github.com/boduoyejieyi666/ssrpOpenWRT/releases)      
+* [x86_64 ssrpOpenWrt软路由固件GitHub同步分发地址](https://github.com/boduoyejieyi666/ssrpOpenWRT/releases)      
 ————————————————————               
-【多插件版本采用 [passwall](https://github.com/xiaorouji/openwrt-passwall) 所属 [原生OpenWRT分叉](https://github.com/Lienol/openwrt) 。推荐喜爱自定义更多用户使用】：           
-* [x86_64 passwallOpenWRT软路由固件频道](https://t.me/passwallOpenWRT233)      
+【多插件版本采用 [passwall](https://github.com/xiaorouji/openwrt-passwall) 所属 [原生OpenWrt分叉](https://github.com/Lienol/openwrt) 。推荐喜爱自定义更多用户使用】：           
+* [x86_64 passwallOpenWrt软路由固件频道](https://t.me/passwallOpenWRT233)      
 或      
-* [x86_64 passwallOpenWRT软路由固件GitHub同步分发地址(只同步分发多插件版本)](https://github.com/boduoyejieyi666/passwallOpenWRT/releases)         
+* [x86_64 passwallOpenWrt软路由固件GitHub同步分发地址(只同步分发多插件版本)](https://github.com/boduoyejieyi666/passwallOpenWRT/releases)         
 ————————————————————        
 【多插件版本采用 [openclash](https://github.com/vernesong/OpenClash) + [Lean/lede](https://github.com/coolsnowwolf/lede) 。推荐动手能力超强喜爱究极自定义的专业用户使用】：      
 * [x86_64 clashOpenWRT软路由固件频道](https://t.me/clashOpenWRT233)          
 或       
-* [x86_64 clashOpenWRT软路由固件GitHub同步分发地址(只同步分发多插件版本)](https://github.com/boduoyejieyi666/clashOpenWRT/releases)            
+* [x86_64 clashOpenWrt软路由固件GitHub同步分发地址(只同步分发多插件版本)](https://github.com/boduoyejieyi666/clashOpenWRT/releases)            
 ————————————————————        
 * [总频道](https://t.me/OpenWRTcn)             
 ————————————————————        
