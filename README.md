@@ -41,4 +41,4 @@
 * [小报频道（IT最新资讯、机场圈内幕消息...）](https://t.me/FQnews)     
 * [东东油管频道](https://www.youtube.com/c/BIGdongdong/videos)         
 ————————————————————            
-本页面打理目前由 [Audrey](https://t.me/AudreyHB1314) 负责，有事请联系它             
+本页面打理目前由 [Audrey](https://t.me/AudreyHB1314) 负责，有事请联系它(仅限于友链等正事。其他的BUG反馈什么的请在发布的固件说明里找到对应issues去反馈)      
