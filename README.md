@@ -27,7 +27,7 @@
 或       
 * [x86_64 clashOpenWrt软路由固件GitHub同步分发地址(只同步分发多插件版本)](https://github.com/boduoyejieyi666/clashOpenWRT/releases)            
 ————————————————————        
-* [总频道](https://t.me/OpenWRTcn)             
+* [总频道（教程/导航）](https://t.me/OpenWRTcn)             
 ————————————————————        
 友链            
 * [机场](./youlian/jichang.md)               
