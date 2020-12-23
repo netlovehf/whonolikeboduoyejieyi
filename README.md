@@ -34,12 +34,12 @@
 * [Hyird倾情打造源安装插件OpenWrt固件](./youlian/Hyird1.md)               
 * [专注Pi/派固件](./youlian/Pi.md)        
 * [ssrp开发者Lean的电报群](https://t.me/joinchat/JhKgAA6Hx1uiihA7RaTW1w)          
-* [Lean人雕语](https://t.me/LeanSaidWTF)     
-* passwall初代开发者Lienol的电报群已经关闭新人入口，第二代开发者xiaorouji暂未建立交流群    
-* [可以看到openclash开发者vernesong发言的电报群](https://t.me/ctcgfw_openwrt_discuss)         
-* [奈菲影视](https://www.nfmovies.com/)      
+* [Lean人雕语](https://t.me/LeanSaidWTF)       
 * [Lean@全体成员频道（硬路由Lean潘多拉固件、BIOS、驱动、Lean魔改软件...）](https://t.me/LeanAtYou)       
 * [小报频道（IT最新资讯、机场圈内幕消息...）](https://t.me/FQnews)     
+* passwall初代开发者Lienol的电报群已经关闭新人入口，第二代开发者xiaorouji暂未建立交流群    
+* [奈菲影视](https://www.nfmovies.com/)      
 * [东东油管频道](https://www.youtube.com/c/BIGdongdong/videos)         
+* [openclash开发者vernesong出没群](https://t.me/ctcgfw_openwrt_discuss)         
 ————————————————————            
 本页面打理目前由 [Audrey](https://t.me/AudreyHB1314) 负责，有事请联系它(仅限于友链等正事。其他的BUG反馈什么的请在发布的固件说明里找到对应issues去反馈)      
