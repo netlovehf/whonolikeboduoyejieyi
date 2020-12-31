@@ -34,7 +34,7 @@
 * [Hyird倾情打造源安装插件OpenWrt固件](./youlian/Hyird1.md)               
 * [专注Pi/派固件](./youlian/Pi.md)        
 * [ssrp开发者Lean的电报群](https://t.me/joinchat/JhKgAA6Hx1uiihA7RaTW1w)          
-* [Lean人雕语](https://t.me/LeanSaidWTF)       
+* [Lean人雕语频道](https://t.me/LeanSaidWTF)       
 * [Lean@全体成员频道（Lean权威发布潘多拉/OpenWrt固件、Lean魔改vmware/BIOS/Windows/MacOS、破解、游戏...）](https://t.me/LeanAtYou)       
 * [小报频道（IT最新资讯、机场圈内幕消息...）](https://t.me/FQnews)     
 * passwall初代开发者Lienol的电报群已经关闭新人入口，第二代开发者xiaorouji暂未建立交流群    
