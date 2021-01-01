@@ -30,7 +30,7 @@
 * [总频道（教程/导航）](https://t.me/OpenWRTcn)             
 ————————————————————        
 友链            
-* [机场](./youlian/jichang.md)               
+* [机场/梯子/广义VPV](./youlian/jichang.md)               
 * [Hyird倾情打造源安装插件OpenWrt固件](./youlian/Hyird1.md)               
 * [专注Pi/派固件](./youlian/Pi.md)        
 * [ssrp开发者Lean的电报群](https://t.me/joinchat/JhKgAA6Hx1uiihA7RaTW1w)          
