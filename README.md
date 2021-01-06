@@ -44,7 +44,8 @@
 * [openclash开发者vernesong主要出没群](https://t.me/ctcgfw_openwrt_discuss)         
 * [Lean的官方ssrpOpenWrt编译Actions(测试源码编译通过性目的)](https://github.com/coolsnowwolf/lede/actions)         
 * [Lean的官方ssrpOpenWrt编译电报同步分发频道](https://t.me/joinchat/SI86ePErDKGj4EMO)          
-* [Lienol的官方passwallOpenWrt编译Actions(测试源码编译通过性目的)](https://github.com/Lienol/openwrt-actions/actions)          
+* [Lienol的官方passwallOpenWrt编译Actions(测试源码编译通过性目的)](https://github.com/Lienol/openwrt-actions/actions)     
+* [Lienol的官方passwallOpenWrt编译电报同步分发频道](https://t.me/joinchat/RfMYmxinmIxf8pRw)             
 
 ————————————————————            
 本页面打理目前由 [Audrey](https://t.me/AudreyHB1314) 负责，有事请联系它(仅限于友链等正事。其他的BUG反馈什么的请在发布的固件说明里找到对应issues去反馈)      
