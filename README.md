@@ -42,7 +42,8 @@
 * [奈菲影视](https://www.nfmovies.com/)      
 * [东东油管频道](https://www.youtube.com/c/BIGdongdong/videos)         
 * [openclash开发者vernesong主要出没群](https://t.me/ctcgfw_openwrt_discuss)         
-* [Lean的官方ssrpOpenWrt编译Actions(测试源码编译通过性目的)](https://github.com/coolsnowwolf/lede/actions)           
+* [Lean的官方ssrpOpenWrt编译Actions(测试源码编译通过性目的)](https://github.com/coolsnowwolf/lede/actions)         
+* [Lean的官方ssrpOpenWrt编译电报同步分发频道](https://t.me/joinchat/SI86ePErDKGj4EMO)          
 * [Lienol的官方passwallOpenWrt编译Actions(测试源码编译通过性目的)](https://github.com/Lienol/openwrt-actions/actions)          
 
 ————————————————————            
