@@ -11,18 +11,18 @@
 * 多插件编译版本即为对应频道的一种爬墙插件+较多实用插件       
 * 不提供插件目录预览。您如果有必须提前知道固件有什么插件的理由，可以请求各相关群里已经在使用相关固件的群友给您截图或口述             
 * 下面三大频道的固件编译自各个爬墙插件作者原生适配自己爬墙插件的op源码分叉，避免了杂交爬墙插件和op源码分叉可能导致的bug，最大限度发挥各个爬墙插件作者的本来意图，保证你反馈的bug各个爬墙插件作者最大可能复现并解决！          
-* 下方ssrpOpenWrt、passwallOpenWrt固件分发频道，分别为ssrp、passwall插件开发者认可的半官方固件分发频道            
-———————————————————-                 
+* 下方ssrpOpenWrt、passwallOpenWrt固件分发频道，分别为ssrp、passwall插件开发者认可的半官方固件分发频道             
+
 【多插件版本采用 [ssrp](https://github.com/fw876/helloworld) 所属 [原生OpenWrt分叉](https://github.com/coolsnowwolf/lede) 。推荐小白及不爱折腾用户使用】：              
 * [x86_64 ssrpOpenWrt软路由固件半官方频道](https://t.me/ssrpOpenWRT)      
 或      
 * [x86_64 ssrpOpenWrt软路由固件GitHub同步分发地址](https://github.com/boduoyejieyi666/ssrpOpenWRT/releases)      
-————————————————————               
+
 【多插件版本采用 [passwall](https://github.com/xiaorouji/openwrt-passwall) 所属 [原生OpenWrt分叉](https://github.com/Lienol/openwrt) 。推荐喜爱自定义更多用户使用】：           
 * [x86_64 passwallOpenWrt软路由固件半官方频道](https://t.me/passwallOpenWRT233)      
 或      
-* [x86_64 passwallOpenWrt软路由固件GitHub同步分发地址(只同步分发多插件版本)](https://github.com/boduoyejieyi666/passwallOpenWRT/releases)         
-————————————————————        
+* [x86_64 passwallOpenWrt软路由固件GitHub同步分发地址(只同步分发多插件版本)](https://github.com/boduoyejieyi666/passwallOpenWRT/releases)           
+   
 【多插件版本采用 [openclash](https://github.com/vernesong/OpenClash) + [Lean/lede](https://github.com/coolsnowwolf/lede) 。推荐动手能力超强喜爱究极自定义的专业用户使用】：      
 * [x86_64 clashOpenWrt软路由固件非官方频道](https://t.me/clashOpenWRT233)          
 或       
