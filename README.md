@@ -5,6 +5,7 @@
 * 提醒：以下链接需要翻墙访问，且最好有telegram（电报）账号登录telegram客户端           
 * [telegram客户端下载](https://telegram.org/apps)           
 * [telegram汉化](https://t.me/setlanguage/classic-zh)          
+
 ———————————————————
 * 各个频道里的.7z文件用 [压缩软件](https://cn.bandisoft.com/bandizip/) 解压后，里面一个是非EFI引导（BIOS引导）的固件、一个是EFI引导的固件，.img.gz可以进一步解压到.img文件（需不需要进一步解压根据实际情况而定）                  
 * 精简编译版本即为对应频道的一种爬墙插件+默认插件             
@@ -27,6 +28,8 @@
 * [x86_64 clashOpenWrt软路由固件非官方频道](https://t.me/clashOpenWRT233)          
 或       
 * [x86_64 clashOpenWrt软路由固件GitHub同步分发地址(只同步分发多插件版本)](https://github.com/boduoyejieyi666/clashOpenWRT/releases)            
+
+
 ————————————————————        
 * [总频道（教程/导航）](https://t.me/OpenWRTcn)             
 ————————————————————        
