@@ -35,23 +35,22 @@
 
 
 ————————————————————        
-友链            
-* [机场/梯子/广义VPN](./youlian/jichang.md)               
+友链       
+* [Lean的官方ssrpOpenWrt编译Actions(测试源码编译通过性目的)](https://github.com/coolsnowwolf/lede/actions)         
+* [Lean的官方ssrpOpenWrt编译电报同步分发频道](https://t.me/joinchat/SI86ePErDKGj4EMO)          
+* [Lienol的官方passwallOpenWrt编译Actions(测试源码编译通过性目的)](https://github.com/Lienol/openwrt-actions/actions)     
+* [Lienol的官方passwallOpenWrt编译电报同步分发频道](https://t.me/joinchat/RfMYmxinmIxf8pRw)         
 * [Hyird倾情打造源安装插件OpenWrt固件](./youlian/Hyird1.md)               
 * [专注Pi/派固件](./youlian/Pi.md)        
 * [ssrp开发者Lean的电报群](https://t.me/joinchat/JhKgAA6Hx1uiihA7RaTW1w)          
 * [Lean人雕语频道](https://t.me/LeanSaidWTF)       
 * [Lean@全体成员频道（Lean权威发布潘多拉/OpenWrt固件、Lean魔改ESXI/BIOS/Windows/MacOS、破解、游戏...）](https://t.me/LeanAtYou)       
 * [小报频道（IT最新资讯、科学上网一手情报...）](https://t.me/FQnews)     
-* passwall初代开发者Lienol的电报群已经关闭新人入口，第二代开发者xiaorouji暂未建立交流群    
+* passwall初代开发者Lienol的电报群已经关闭新人入口，第二代开发者xiaorouji暂未建立交流群       
+* [openclash开发者vernesong主要出没群](https://t.me/ctcgfw_openwrt_discuss)        
 * [奈菲影视](https://www.nfmovies.com/)      
-* [东东油管频道](https://www.youtube.com/c/BIGdongdong/videos)         
-* [openclash开发者vernesong主要出没群](https://t.me/ctcgfw_openwrt_discuss)         
-* [Lean的官方ssrpOpenWrt编译Actions(测试源码编译通过性目的)](https://github.com/coolsnowwolf/lede/actions)         
-* [Lean的官方ssrpOpenWrt编译电报同步分发频道](https://t.me/joinchat/SI86ePErDKGj4EMO)          
-* [Lienol的官方passwallOpenWrt编译Actions(测试源码编译通过性目的)](https://github.com/Lienol/openwrt-actions/actions)     
-* [Lienol的官方passwallOpenWrt编译电报同步分发频道](https://t.me/joinchat/RfMYmxinmIxf8pRw)             
-
+* [东东油管频道](https://www.youtube.com/c/BIGdongdong/videos)          
+* [机场/梯子/广义VPN](./youlian/jichang.md)        
 
 ————————————————————            
 本页面打理目前由 [Audrey](https://t.me/AudreyHB1314) 负责，有事请联系它(仅限于友链等正事。其他的BUG反馈什么的请在发布的固件说明里找到对应issues去反馈)      
