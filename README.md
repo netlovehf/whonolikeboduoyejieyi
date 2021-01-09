@@ -7,8 +7,7 @@
 * [telegram汉化](https://t.me/setlanguage/classic-zh)          
 
 ———————————————————
-* 各个频道里的.7z文件用 [压缩软件](https://cn.bandisoft.com/bandizip/) 解压后，里面一个是非EFI引导（BIOS引导）的固件、一个是EFI引导的固件，.img.gz可以进一步解压到.img文件（需不需要进一步解压根据实际情况而定）                  
-* 各个频道固件的插件 [预览截图](https://t.me/joinchat/UUregAuvkM-vKceL)                
+* 各个频道里的.7z文件用 [压缩软件](https://cn.bandisoft.com/bandizip/) 解压后，里面一个是非EFI引导（BIOS引导）的固件、一个是EFI引导的固件，.img.gz可以进一步解压到.img文件（需不需要进一步解压根据实际情况而定）                         
 * 下面三大频道的固件编译自各个爬墙插件作者原生适配自己爬墙插件的op源码分叉，避免了杂交爬墙插件和op源码分叉可能导致的bug，最大限度发挥各个爬墙插件作者的本来意图，保证你反馈的bug各个爬墙插件作者最大可能复现并解决！          
 * 下方ssrpOpenWrt、passwallOpenWrt固件分发频道，分别为ssrp、passwall插件开发者认可的半官方固件分发频道             
 
