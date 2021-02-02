@@ -1,6 +1,6 @@
 [回到主页面](https://github.com/boduoyejieyi666/whonolikeboduoyejieyi/blob/main/README.md)           
 
-此为OpenWrtcn频道的合作伙伴的机场，与OpenWrtcn圈内的任何开发者无关。          
+此为OpenWrtcn频道的合作伙伴的机场，友推，与OpenWrtcn圈内的任何开发者及OpenWrtcn频道主Audrey无关                 
 
 老牌 技术流 奈飞机场（广义VPN/翻墙梯子）“羊圈”:          
 [注册链接](https://www.mielink.cc/register?aff=qinqin)          
