@@ -66,6 +66,9 @@ SoftBank - Extreme
 40960GiB Bandwidth           
 500 Mbps           
 BT/PT・銀行ウェブ禁止               
-  
+
+2021.02.02参考测速()：               
+![]()                       
+
 
 
