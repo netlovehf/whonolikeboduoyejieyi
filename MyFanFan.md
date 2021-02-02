@@ -26,7 +26,6 @@ Test IP: 61.196.104.100
 IIJ - Lite         
 ¥4880.00JPY             
 月額料金                
-
 2 vCPU        
 2GB RAM       
 40GB HDD      
