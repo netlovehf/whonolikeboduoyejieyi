@@ -43,7 +43,7 @@
 * [Lean人雕语频道](https://t.me/LeanSaidWTF)       
 * [Lean@全体成员频道（Lean权威发布潘多拉/OpenWrt固件、Lean魔改ESXI/BIOS/Windows/MacOS、破解、游戏...）](https://t.me/LeanAtYou)       
 * [小报频道（IT最新资讯、科学上网情报...）](https://t.me/FQnews)     
-* [passwall初代开发者Lienol的电报群(目前已经不参与passwall开发。xiaorouji接手了](https://t.me/openwrtcs)           
+* [passwall初代开发者Lienol的电报群(目前已经不参与passwall开发。xiaorouji接手了)](https://t.me/openwrtcs)           
 * [openclash开发者vernesong主要出没群](https://t.me/ctcgfw_openwrt_discuss)     
 * [天灵Ka神频道](https://t.me/nanopi_r2s)        
 * [奈菲影视](https://www.nfmovies.com/)      
