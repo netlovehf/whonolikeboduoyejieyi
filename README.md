@@ -27,7 +27,7 @@
 
 
 ————————————————————        
-* [总频道（教程/导航）](https://t.me/OpenWRTcn)            
+* [总频道](https://t.me/OpenWRTcn)（教程/导航）      
 * [VPS/虚拟专用服务器/小鸡](https://github.com/boduoyejieyi666/whonolikeboduoyejieyi/blob/main/MyFanFan.md)         
 
 ————————————————————        
