@@ -33,7 +33,8 @@
 ————————————————————        
 友链       
 * [Lean的官方ssrpOpenWrt编译Actions(测试源码编译通过性目的)](https://github.com/coolsnowwolf/lede/actions)         
-* [Lean的官方ssrpOpenWrt编译电报同步分发频道](https://t.me/joinchat/SI86ePErDKGj4EMO)          
+* [Lean的官方ssrpOpenWrt编译电报同步分发频道](https://t.me/joinchat/SI86ePErDKGj4EMO)         
+* [Lean的稳定版OpenWrt分叉](https://github.com/coolsnowwolf/openwrt)        
 * [Lienol的官方passwallOpenWrt编译Actions(测试源码编译通过性目的)](https://github.com/Lienol/openwrt-actions/actions) (官方Actions停止，恢复时间等通知)            
 * [Lienol的官方passwallOpenWrt编译电报同步分发频道](https://t.me/joinchat/RfMYmxinmIxf8pRw)         
 * [Hyird倾情打造源安装插件OpenWrt固件](./youlian/Hyird1.md)               
