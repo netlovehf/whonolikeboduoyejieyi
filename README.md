@@ -32,17 +32,17 @@
 
 ————————————————————        
 友链       
-* [Lean的官方ssrpOpenWrt编译Actions(测试源码编译通过性目的)](https://github.com/coolsnowwolf/lede/actions)         
+* [Lean的官方ssrpOpenWrt编译Actions](https://github.com/coolsnowwolf/lede/actions) (测试源码编译通过性目的)              
 * [Lean的官方ssrpOpenWrt编译电报同步分发频道](https://t.me/joinchat/SI86ePErDKGj4EMO)         
 * [Lean的稳定版OpenWrt分叉](https://github.com/coolsnowwolf/openwrt)        
-* [Lienol的官方passwallOpenWrt编译Actions(测试源码编译通过性目的)](https://github.com/Lienol/openwrt-actions/actions) (官方Actions停止，恢复时间等通知)            
+* [Lienol的官方passwallOpenWrt编译Actions](https://github.com/Lienol/openwrt-actions/actions) (测试源码编译通过性目的)(官方Actions停止，恢复时间等通知)     
 * [Lienol的官方passwallOpenWrt编译电报同步分发频道](https://t.me/joinchat/RfMYmxinmIxf8pRw) (由频道团队接管中)               
 * [Hyird倾情打造源安装插件OpenWrt固件](./youlian/Hyird1.md)               
 * [专注Pi/派固件](./youlian/Pi.md)        
 * [ssrp开发者Lean的电报群](https://t.me/joinchat/JhKgAA6Hx1uiihA7RaTW1w)          
 * [Lean人雕语频道](https://t.me/LeanSaidWTF)       
-* [Lean@全体成员频道（Lean权威发布潘多拉/OpenWrt固件、Lean魔改ESXI/BIOS/Windows/MacOS、破解、游戏...）](https://t.me/LeanAtYou)       
-* [小报频道（IT最新资讯、科学上网情报...）](https://t.me/FQnews)     
+* [Lean@全体成员频道](https://t.me/LeanAtYou) （Lean权威发布潘多拉/OpenWrt固件、Lean魔改ESXI/BIOS/Windows/MacOS、破解、游戏...）              
+* [小报频道](https://t.me/FQnews) （IT最新资讯、科学上网情报...）                 
 * [passwall初代开发者Lienol的电报群](https://t.me/openwrtcs) (Lienol目前已经不参与passwall开发。passwall由xiaorouji接手开发中)                
 * [openclash开发者vernesong主要出没群](https://t.me/ctcgfw_openwrt_discuss)     
 * [天灵Ka神频道](https://t.me/nanopi_r2s)        
