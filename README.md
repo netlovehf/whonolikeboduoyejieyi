@@ -18,13 +18,12 @@
 【多插件版本采用 [passwall](https://github.com/xiaorouji/openwrt-passwall) 所属 [原生OpenWrt分叉](https://github.com/Lienol/openwrt) 。推荐喜爱自定义更多用户使用】：           
 * [x86_64 passwallOpenWrt软路由固件半官方频道](https://t.me/passwallOpenWRT233)      
 或      
-* [x86_64 passwallOpenWrt半官方软路由固件GitHub同步分发地址(只同步分发多插件版本)](https://github.com/boduoyejieyi666/passwallOpenWRT/releases)           
+* [x86_64 passwallOpenWrt半官方软路由固件GitHub同步分发地址](https://github.com/boduoyejieyi666/passwallOpenWRT/releases) (只同步分发多插件版本)               
    
 【多插件版本采用 [openclash](https://github.com/vernesong/OpenClash) + [Lean/lede](https://github.com/coolsnowwolf/lede) 。推荐动手能力超强喜爱究极自定义的专业用户使用】：      
 * [x86_64 clashOpenWrt软路由固件非官方频道](https://t.me/clashOpenWRT233)          
 或       
-* [x86_64 clashOpenWrt非官方软路由固件GitHub同步分发地址(只同步分发多插件版本)](https://github.com/boduoyejieyi666/clashOpenWRT/releases)            
-
+* [x86_64 clashOpenWrt非官方软路由固件GitHub同步分发地址](https://github.com/boduoyejieyi666/clashOpenWRT/releases) (只同步分发多插件版本)                  
 
 ————————————————————        
 * [总频道](https://t.me/OpenWRTcn)（教程/导航）      
