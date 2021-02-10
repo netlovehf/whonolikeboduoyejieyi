@@ -30,7 +30,7 @@
 * [VPS/虚拟专用服务器/小鸡](https://github.com/boduoyejieyi666/whonolikeboduoyejieyi/blob/main/MyFanFan.md)         
 
 ————————————————————        
-友链       
+其他推荐           
 * [Lean的官方ssrpOpenWrt编译Actions](https://github.com/coolsnowwolf/lede/actions) (测试源码编译通过性目的)              
 * [Lean的官方ssrpOpenWrt编译电报同步分发频道](https://t.me/joinchat/SI86ePErDKGj4EMO)         
 * [Lean的稳定版OpenWrt分叉](https://github.com/coolsnowwolf/openwrt)        
@@ -41,7 +41,7 @@
 * [ssrp开发者Lean的电报群](https://t.me/joinchat/JhKgAA6Hx1uiihA7RaTW1w)          
 * [Lean人雕语频道](https://t.me/LeanSaidWTF) （Lean官方消息/Lean发布源码更新通知......）               
 * [Lean@全体成员频道](https://t.me/LeanAtYou) （Lean权威发布潘多拉/OpenWrt固件、Lean魔改ESXI/BIOS/Windows/MacOS、破解、游戏......）       
-* [小报频道](https://t.me/FQnews) （IT最新资讯、科学上网情报...）                 
+* [小报频道](https://t.me/FQnews) （数码资讯搬运）         
 * [passwall初代开发者Lienol的电报群](https://t.me/openwrtcs) (Lienol目前已经不参与passwall开发。passwall由xiaorouji接手开发中)                
 * [openclash开发者vernesong主要出没群](https://t.me/ctcgfw_openwrt_discuss)     
 * [天灵Ka神频道](https://t.me/nanopi_r2s)        
