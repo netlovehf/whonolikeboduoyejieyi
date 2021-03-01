@@ -6,7 +6,7 @@
 * [telegram客户端下载](https://telegram.org/apps)           
 * [telegram汉化](https://t.me/setlanguage/classic-zh)          
 * [单线程测速](http://speed.cloudflare.com)     
-* 
+* [查询IP地址](http://www.ip111.cn/)             
 
 ———————————————————
 * 各个频道里的.7z文件用 [压缩软件](https://cn.bandisoft.com/bandizip/) 解压后，里面一个是非EFI引导（BIOS引导）的固件、一个是EFI引导的固件，.img.gz可以进一步解压到.img文件（需不需要进一步解压根据实际情况而定）                         
