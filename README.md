@@ -32,7 +32,9 @@
 * [VPS/虚拟专用服务器/小鸡](https://github.com/boduoyejieyi666/whonolikeboduoyejieyi/blob/main/MyFanFan.md)         
 
 ————————————————————        
-其他推荐           
+其他推荐      
+* [矮小少AXS固件分发地址](https://github.com/boduoyejieyi666/immortalWrt/releases)         
+*              
 * [Lean的官方ssrpOpenWrt编译Actions](https://github.com/coolsnowwolf/lede/actions) (测试源码编译通过性目的)              
 * [Lean的官方ssrpOpenWrt编译电报同步分发频道](https://t.me/joinchat/SI86ePErDKGj4EMO)         
 * [Lean的稳定版OpenWrt分叉](https://github.com/coolsnowwolf/openwrt)        
