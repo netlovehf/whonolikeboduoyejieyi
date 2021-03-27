@@ -33,8 +33,8 @@
 
 ————————————————————        
 其他推荐      
-* [矮小少AXS固件分发地址](https://github.com/boduoyejieyi666/immortalWrt/releases)         
-* [矮小少AXS固件电报同步分发频道](https://t.me/aixiaoshao)                                       
+* [矮小少AXS软路由固件分发地址](https://github.com/boduoyejieyi666/immortalWrt/releases)         
+* [矮小少AXS软路由固件电报同步分发频道](https://t.me/aixiaoshao)                                       
 * [Lean的官方ssrpOpenWrt编译Actions](https://github.com/coolsnowwolf/lede/actions) (测试源码编译通过性目的)              
 * [Lean的官方ssrpOpenWrt编译电报同步分发频道](https://t.me/joinchat/SI86ePErDKGj4EMO)         
 * [Lean的稳定版OpenWrt分叉](https://github.com/coolsnowwolf/openwrt)        
