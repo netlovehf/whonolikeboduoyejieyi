@@ -48,7 +48,7 @@
 * [小报频道](https://t.me/FQnews) （数码资讯搬运）         
 * [passwall初代开发者Lienol的电报群](https://t.me/openwrtcs) (Lienol目前已经不参与passwall开发。passwall由xiaorouji接手开发中)                
 * [openclash开发者vernesong主要出没群](https://t.me/ctcgfw_openwrt_discuss)     
-* [天灵Ka神频道](https://t.me/nanopi_r2s)        
+* [天灵的频道](https://t.me/nanopi_r2s)        
 * [奈菲影视](https://www.nfmovies.com/)      
 * [东东油管频道](https://www.youtube.com/c/BIGdongdong/videos)          
 * [机场/梯子/广义VPN](./youlian/jichang.md)        
