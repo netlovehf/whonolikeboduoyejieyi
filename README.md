@@ -18,7 +18,7 @@
 * [刚刚好GGH硬路由固件分发地址](https://github.com/boduoyejieyi666/immortalWrt/releases)             
 * [刚刚好GGH硬路由固件电报同步分发频道](https://t.me/joinchat/KemVTSG0XyEwMjVl)         
 刚刚好GGH：仅选取介于ssrp和openclash实用性之间的passwall插件，可满足99.9%用户的需求。        
-目前长期分发固件的设备型号:* ACRH17  * AC2100    * K2P   * D2    * R619AC            
+目前长期分发固件的设备型号：* ACRH17 * AC2100* K2P * D2   * R619AC            
 
 ———————————————————
 * .7z文件用 [压缩软件](https://cn.bandisoft.com/bandizip/) 解压后，里面一个是非EFI引导（BIOS引导）的固件、一个是EFI引导的固件，.img.gz可以进一步解压到.img文件（需不需要进一步解压根据实际情况而定）                         
