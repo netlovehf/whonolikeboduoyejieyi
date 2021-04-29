@@ -11,13 +11,13 @@
 ———————————————————             
 * [矮小少AXS软路由固件分发地址](https://github.com/boduoyejieyi666/immortalWrt/releases)         
 * [矮小少AXS软路由固件电报同步分发频道](https://t.me/aixiaoshao)         
-矮小少AXS：缝合了ssrp+passwall+openclash三大金刚。               
+矮小少AXS：缝合了ssrp+passwall+openclash三大金刚            
 目前长期分发固件的设备型号：* x86_64 * R1PLUS * R1SH5 * R2S * R4S * 4B            
 
 ———————————————————             
 * [刚刚好GGH硬路由固件分发地址](https://github.com/boduoyejieyi666/immortalWrt/releases)             
-* [刚刚好GGH硬路由固件电报同步分发频道](https://t.me/joinchat/KemVTSG0XyEwMjVl)         
-刚刚好GGH：仅选取介于ssrp和openclash实用性之间的passwall插件，可满足99.9%用户的需求。        
+* [刚刚好GGH硬路由固件电报同步分发频道](https://t.me/joinchat/KemVTSG0XyEwMjVl)            
+刚刚好GGH:ssrp ONLY            
 目前长期分发固件的设备型号：* ACRH17 * AC2100 * K2P * D2 * R619AC            
 
 ———————————————————
