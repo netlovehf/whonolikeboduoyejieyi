@@ -17,7 +17,7 @@
 ———————————————————             
 * [刚刚好GGH硬路由固件分发地址](https://github.com/boduoyejieyi666/immortalWrt/releases)             
 * [刚刚好GGH硬路由固件电报同步分发频道](https://t.me/joinchat/KemVTSG0XyEwMjVl)            
-刚刚好GGH:ssrp ONLY            
+刚刚好GGH：ssrp ONLY            
 目前长期分发固件的设备型号：* ACRH17 * AC2100 * K2P * D2 * R619AC            
 
 ———————————————————
