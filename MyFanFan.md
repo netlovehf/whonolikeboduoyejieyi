@@ -49,27 +49,7 @@ IIJ - Pro
 400 Mbps           
 BT/PT・銀行ウェブ禁止          
 
-SoftBank - Pro         
-¥15800.00JPY              
-月額料金               
-2 vCPU            
-4GB RAM            
-60GB HDD              
-1 東京ゾーン IPv4アドレス             
-20480GiB Bandwidth               
-400 Mbps            
-BT/PT・銀行ウェブ禁止           
-
-SoftBank - Extreme           
-¥32800.00JPY              
-月額料金            
-4 vCPU             
-8GB RAM             
-100GB HDD               
-1 東京ゾーン IPv4アドレス             
-40960GiB Bandwidth           
-500 Mbps           
-BT/PT・銀行ウェブ禁止               
+[如果有机场需求点击这里](https://github.com/boduoyejieyi666/whonolikeboduoyejieyi/blob/main/youlian/jichang.md)             
 
 
 
