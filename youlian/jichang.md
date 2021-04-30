@@ -1,6 +1,4 @@
-[回到主页面](https://github.com/boduoyejieyi666/whonolikeboduoyejieyi/blob/main/README.md)           
-
-友推，与OpenWrtcn圈内的任何开发者及Audrey无关                 
+[回到主页面](https://github.com/boduoyejieyi666/whonolikeboduoyejieyi/blob/main/README.md)                            
 
 老牌 技术流 奈飞机场（广义VPN/翻墙梯子）“羊圈”:          
 [注册链接](https://www.mielink.com/register?aff=qinqin)          
