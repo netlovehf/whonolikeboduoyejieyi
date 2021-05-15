@@ -62,7 +62,8 @@
 * [ssrp及其他主流插件的ipk文件每日更新分发](https://t.me/ssrpIPKnb)      
 * [passwall及其他主流插件的ipk文件每日更新分发](https://t.me/passwallIPKnb)                         
 * [奈菲影视](https://www.nfmovies.com/)      
-* [东东油管频道](https://www.youtube.com/c/BIGdongdong/videos)          
+* [东东油管频道](https://www.youtube.com/c/BIGdongdong/videos)        
+* [老毛子Padavan固件发布](https://t.me/pdcn1)             
 * [机场/梯子/广义VPN](./youlian/jichang.md)        
 
 ————————————————————            
