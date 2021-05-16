@@ -7,6 +7,7 @@
 * [telegram汉化](https://t.me/setlanguage/classic-zh)          
 * [单线程测速](http://speed.cloudflare.com)     
 * [查询IP地址](http://www.ip111.cn/)             
+* [GitHub各项服务状态](https://www.githubstatus.com)     
     
 ———————————————————             
 * [矮小少AXS软路由固件分发地址](https://github.com/boduoyejieyi666/immortalWrt/releases)         
