@@ -4,7 +4,9 @@
 * 请有恩山账号的老手留言顶下这个 [帖子](https://www.right.com.cn/forum/thread-4053643-1-1.html) ：越过长城，走向世界！            
 * 提醒：以下链接需要翻墙访问，且最好有telegram（电报）账号登录telegram客户端           
 * [telegram客户端下载](https://telegram.org/apps)           
-* [telegram汉化](https://t.me/setlanguage/classic-zh)          
+* [telegram汉化简体(推荐第三方)](https://t.me/setlanguage/classic-zh)     
+* [telegram汉化简体(官方测试版本)](https://t.me/setlanguage/zh-hans-raw)      
+* [telegram汉化繁体(官方测试版本)](https://t.me/setlanguage/zh-hant-raw)    
 * [单线程测速](http://speed.cloudflare.com)     
 * [查询IP地址](http://www.ip111.cn/)             
 * [GitHub各项服务状态](https://www.githubstatus.com)     
