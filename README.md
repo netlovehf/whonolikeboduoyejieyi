@@ -8,7 +8,8 @@
 * [telegram汉化简体(官方测试版本)](https://t.me/setlanguage/zh-hans-raw)      
 * [telegram汉化繁体(官方测试版本)](https://t.me/setlanguage/zh-hant-raw)    
 * [单线程测速](http://speed.cloudflare.com)     
-* [查询IP地址](http://www.ip111.cn/)             
+* [查询IP地址](http://www.ip111.cn/)     
+* [跑SS性能测试脚本](https://github.com/boduoyejieyi666/whonolikeboduoyejieyi/blob/main/sh/ss_test.md)                  
 * [GitHub各项服务状态](https://www.githubstatus.com)     
     
 ———————————————————             
