@@ -3,8 +3,7 @@
 test_method='aes-128-ctr aes-128-cfb aes-128-gcm aes-256-ctr aes-256-cfb aes-256-gcm chacha20 chacha20-ietf chacha20-ietf-poly1305 rc4-md5 xchacha20-ietf-poly1305'
 
 gen_img_file(){
-	dd if=/dev/zero of=/tmp/test.img bs=1M count=300
-	ln -sf /tmp/test.img /www/test.img
+	dd if=/dev/zero of=/www/test.img bs=1M count=0 seek=300
 }
 
 gen_ss_json(){
@@ -36,7 +35,7 @@ stop_ss(){
 }
 
 clean_all(){
-	rm -f /tmp/test.img /www/test.img $PWD/ss.json $PWD/*curl_info
+	rm -f /www/test.img $PWD/ss.json $PWD/*curl_info
 }
 
 main(){
@@ -46,6 +45,7 @@ main(){
 	do
 		gen_ss_json $method
 		launch_ss
+		sleep 1s
 		curl --socks5 127.0.0.1 127.0.0.1/test.img -o /dev/null 2>&1 | tee $PWD/${method}_curl_info
 		stop_ss
 	done
