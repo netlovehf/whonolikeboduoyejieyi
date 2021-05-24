@@ -1,5 +1,9 @@
 # 几种加密算法下传输速度测试脚本   
 
+前言：
+①此脚本中默认的测试文件大小值是针对硬路由的，如果您是高性能设备上面跑这个脚本请自行修改脚本中seek=5000才能准确反应您的豪华软路由真实能力！     
+②此脚本只适合运行在安装有ss服务的openwrt系统。           
+
 * 可选命令1：      
 ```bash  
 curl -O https://raw.githubusercontent.com/boduoyejieyi666/whonolikeboduoyejieyi/main/sh/ss_test.sh && chmod +x ./ss_test.sh && ./ss_test.sh     
