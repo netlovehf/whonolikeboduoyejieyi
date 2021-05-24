@@ -9,7 +9,7 @@
 * [telegram汉化繁体(官方测试版本)](https://t.me/setlanguage/zh-hant-raw)    
 * [单线程测速](http://speed.cloudflare.com)     
 * [查询IP地址](http://www.ip111.cn/)     
-* [加密算法得分脚本](https://github.com/boduoyejieyi666/whonolikeboduoyejieyi/blob/main/sh/ss_test.md)                  
+* [几种加密算法下传输速度测试脚本](https://github.com/boduoyejieyi666/whonolikeboduoyejieyi/blob/main/sh/ss_test.md)                  
 * [GitHub各项服务状态](https://www.githubstatus.com)     
     
 ———————————————————             
