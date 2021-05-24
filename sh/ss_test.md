@@ -11,3 +11,5 @@ wget --no-check-certificate https://raw.githubusercontent.com/boduoyejieyi666/wh
 ```       
 
 此脚本完全由天灵编写，不定期同步搬运。天灵的电报频道：[链接](https://t.me/nanopi_r2s)
+
+[返回主页](https://github.com/boduoyejieyi666/whonolikeboduoyejieyi/blob/main/README.md)        
