@@ -1,9 +1,9 @@
 #!/bin/ash
 
-test_method='none plain aes-128-gcm aes-256-gcm chacha20-ietf-poly1305'
+test_method='aes-128-ctr aes-128-cfb aes-128-gcm aes-256-ctr aes-256-cfb aes-256-gcm chacha20 chacha20-ietf chacha20-ietf-poly1305 rc4-md5 xchacha20-ietf-poly1305'
 
 gen_img_file(){
-	dd if=/dev/zero of=/www/test.img bs=1M count=0 seek=1000
+	dd if=/dev/zero of=/www/test.img bs=1M count=0 seek=300
 }
 
 gen_ss_json(){
@@ -24,14 +24,14 @@ launch_ss(){
 	i=0
 	while [ $i -lt 4 ]
 	do
-		ssserver -c $PWD/ss.json >/dev/null 2>&1 &
-		sslocal -c  $PWD/ss.json >/dev/null 2>&1 &
+		ss-server -c $PWD/ss.json >/dev/null 2>&1 &
+		ss-local -c  $PWD/ss.json >/dev/null 2>&1 &
 		let i++
 	done
 }
 
 stop_ss(){
-	killall ssserver sslocal
+	killall ss-server ss-local
 }
 
 clean_all(){
