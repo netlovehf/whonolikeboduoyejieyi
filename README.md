@@ -14,26 +14,23 @@
 * [GitHub各项服务状态](https://www.githubstatus.com)     
     
 ———————————————————       
-## 缝合怪矮小少AXS软路由专区   
+## 缝合怪矮小少AXS软路由专区(目前长期分发固件的设备型号：* x86_64 * R1PLUS * R1SH5 * R2S * R4S * 4B)
+矮小少AXS：缝合了ssrp+passwall+openclash+其他杂交品种翻墙插件+所有已知主题+铁头娃们写的一些经常失效的违反非恶法的盗版及破解插件           
 
 * [矮小少AXS软路由固件分发地址](https://github.com/boduoyejieyi666/immortalWrt/releases)         
 * [矮小少AXS软路由固件电报同步分发频道](https://t.me/aixiaoshao)         
-矮小少AXS：缝合了ssrp+passwall+openclash三大金刚            
-目前长期分发固件的设备型号：* x86_64 * R1PLUS * R1SH5 * R2S * R4S * 4B            
-
+    
 ———————————————————      
-## 垃圾佬刚刚好GGH硬路由专区   
+## 垃圾佬刚刚好GGH硬路由专区(目前长期分发固件的设备型号：* ACRH17 * AC2100 * K2P * D2 * R619AC)
+刚刚好GGH：独宠ssrp        
 
 * [刚刚好GGH硬路由固件分发地址](https://github.com/boduoyejieyi666/immortalWrt/releases)             
 * [刚刚好GGH硬路由固件电报同步分发频道](https://t.me/joinchat/KemVTSG0XyEwMjVl)            
-刚刚好GGH：ssrp ONLY            
-目前长期分发固件的设备型号：* ACRH17 * AC2100 * K2P * D2 * R619AC            
-
+           
 ———————————————————      
 ## x86_64原生态专区     
-
-* .7z文件用 [压缩软件](https://cn.bandisoft.com/bandizip/) 解压后，里面一个是非EFI引导（BIOS引导）的固件、一个是EFI引导的固件，.img.gz可以进一步解压到.img文件（需不需要进一步解压根据实际情况而定）                         
-* 下面三大频道的固件编译自各个爬墙插件作者原生适配自己爬墙插件的op源码分叉，避免了杂交爬墙插件和op源码分叉可能导致的bug，最大限度发挥各个爬墙插件作者的本来意图，保证你反馈的bug各个爬墙插件作者最大可能复现并解决！              
+下面三大频道的固件编译自各个爬墙插件作者原生适配自己爬墙插件的op源码分叉，避免了杂交爬墙插件和op源码分叉可能导致的bug，最大限度发挥各个爬墙插件作者的本来意图，保证你反馈的bug各个爬墙插件作者最大可能复现并解决！       
+.7z文件用 [压缩软件](https://cn.bandisoft.com/bandizip/) 解压后，里面一个是非EFI引导（BIOS引导）的固件、一个是EFI引导的固件，.img.gz可以进一步解压到.img文件（需不需要进一步解压根据实际情况而定）         
 
 【多插件版本采用 [ssrp](https://github.com/fw876/helloworld) 所属 [原生OpenWrt分叉](https://github.com/coolsnowwolf/lede) 。推荐小白及不爱折腾用户使用】：              
 * [x86_64 ssrpOpenWrt软路由固件半官方频道](https://t.me/ssrpOpenWRT)      
