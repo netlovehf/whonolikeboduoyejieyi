@@ -45,7 +45,7 @@
 * [x86_64 passwallOpenWrt半官方软路由固件GitHub同步分发地址](https://github.com/boduoyejieyi666/passwallOpenWRT/releases)           
 
 
-### 推荐动手能力超强喜爱究极自定义的专业用户使用。多插件版本采用 [openclash](https://github.com/vernesong/OpenClash) + [Lean/lede](https://github.com/coolsnowwolf/lede)   
+### 推荐动手能力超强喜爱究极自定义的专业用户使用。多插件版本采用 [openclash](https://github.com/vernesong/OpenClash) + [主力适配OpenWrt分叉](https://github.com/coolsnowwolf/lede)   
 
 * [x86_64 clashOpenWrt软路由固件非官方频道](https://t.me/clashOpenWRT233)          
 或       
