@@ -32,13 +32,15 @@
 下面三大频道的固件编译自各个爬墙插件作者原生适配自己爬墙插件的op源码分叉，避免了杂交爬墙插件和op源码分叉可能导致的bug，最大限度发挥各个爬墙插件作者的本来意图，保证你反馈的bug各个爬墙插件作者最大可能复现并解决！       
 .7z文件用 [压缩软件](https://cn.bandisoft.com/bandizip/) 解压后，里面一个是非EFI引导（BIOS引导）的固件、一个是EFI引导的固件，.img.gz可以进一步解压到.img文件（需不需要进一步解压根据实际情况而定）         
 
-### 推荐小白及不爱折腾用户使用。多插件版本采用 [ssrp](https://github.com/fw876/helloworld) 所属 [原生OpenWrt分叉](https://github.com/coolsnowwolf/lede)      
+### 推荐小白及不爱折腾用户使用。多插件版本采用 [ssrp](https://github.com/fw876/helloworld) 所属 [原生OpenWrt分叉](https://github.com/coolsnowwolf/lede)       
+TIPS：目前分流只有一个netflix，且无法手动添加更多分流规则。      
 
 * [x86_64 ssrpOpenWrt软路由固件半官方频道](https://t.me/ssrpOpenWRT)      
 或      
 * [x86_64 ssrpOpenWrt半官方软路由固件GitHub同步分发地址](https://github.com/boduoyejieyi666/ssrpOpenWRT/releases)      
 
 ### 推荐喜爱自定义更多用户使用。多插件版本采用 [passwall](https://github.com/xiaorouji/openwrt-passwall) 所属 [原生OpenWrt分叉](https://github.com/Lienol/openwrt) 
+TIPS：自带分流覆盖netflix、telegram等，已经满足大部分人需求，且可以手动导入新的分流规则，可以说是能够完全满足所有分流人群的需求。所以passwall是最佳推荐翻墙插件。   
 
 * [x86_64 passwallOpenWrt软路由固件半官方频道](https://t.me/passwallOpenWRT233)      
 或      
@@ -46,6 +48,7 @@
 
 
 ### 推荐动手能力超强喜爱究极自定义的专业用户使用。多插件版本采用 [openclash](https://github.com/vernesong/OpenClash) + [主力适配OpenWrt分叉](https://github.com/coolsnowwolf/lede)   
+TIPS：上手难度大且相比passwall没有突出优势，手动添加黑白名单也比ssrp和passwall复杂，目前来看实在没必要在openwrt系统中采用基于clash内核的openclash。         
 
 * [x86_64 clashOpenWrt软路由固件非官方频道](https://t.me/clashOpenWRT233)          
 或       
