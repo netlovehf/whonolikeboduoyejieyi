@@ -12,8 +12,11 @@
 * [查询IP地址](http://www.ip111.cn/)     
 * [几种加密算法下传输速度测试脚本](https://github.com/boduoyejieyi666/whonolikeboduoyejieyi/blob/main/sh/ss_test.md)                  
 * [GitHub各项服务状态](https://www.githubstatus.com)     
-* passwall的芝麻开门命令：touch /etc/config/passwall_show        
-   
+* passwall的芝麻开门命令：     
+```
+* touch /etc/config/passwall_show        
+```
+
 ———————————————————       
 ## 缝合怪矮小少AXS软路由专区(目前长期分发固件的设备型号：* x86_64 * R1PLUS * R1SH5 * R2S * R4S * 4B)
 矮小少AXS：缝合了ssrp+passwall+openclash+其他杂交品种翻墙插件+所有已知主题+铁头娃们写的一些经常失效的违反非恶法的盗版及破解插件           
