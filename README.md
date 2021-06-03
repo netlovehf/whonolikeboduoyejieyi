@@ -14,7 +14,7 @@
 * [GitHub各项服务状态](https://www.githubstatus.com)     
 * passwall的芝麻开门命令：     
 ```
-* touch /etc/config/passwall_show        
+touch /etc/config/passwall_show        
 ```
 
 ———————————————————       
