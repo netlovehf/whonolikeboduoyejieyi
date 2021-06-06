@@ -19,7 +19,7 @@ touch /etc/config/passwall_show
 
 ———————————————————       
 ## 缝合怪矮小少AXS软路由专区(目前长期分发固件的设备型号：* x86_64 * R1PLUS * R1SH5 * R2S * R4S * 4B)
-矮小少AXS：缝合了ssrp+passwall+openclash+其他杂交品种翻墙插件+所有已知主题+铁头娃们写的一些经常失效的违反非恶法的盗版及破解插件           
+矮小少AXS：缝合了ssrp+passwall+openclash+其他杂交品种翻墙插件+铁头娃们写的一些经常失效的违反非恶法的盗版及破解插件           
 
 * [矮小少AXS软路由固件分发地址](https://github.com/boduoyejieyi666/immortalWrt/releases)         
 * [矮小少AXS软路由固件电报同步分发频道](https://t.me/aixiaoshao)         
