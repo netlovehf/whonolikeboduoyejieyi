@@ -1,5 +1,6 @@
 # 授人以鱼不如授人以渔
-## 这里是简短的编译OpenWrt入门秘籍
+## 这里是简短的编译OpenWrt入门秘籍 
+![1](https://user-images.githubusercontent.com/73426989/121067643-e0606880-c7fd-11eb-8673-6a8747853c20.png)    
 
 截至2021.06.07，除了[ImmortalWrt](https://github.com/immortalwrt/immortalwrt)缝合好了几大爬墙插件可供直接make编译，其他的Op分叉都或注释或分离或隐藏了，为了照顾新人定制编译属于自己的固件，故有了这篇高考期间的openwrt小作文...     
 
