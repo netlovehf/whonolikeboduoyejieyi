@@ -17,6 +17,7 @@
 ```
 touch /etc/config/passwall_show        
 ```
+* [OpenWrt编译入门秘籍](https://github.com/boduoyejieyi666/whonolikeboduoyejieyi/blob/main/fishtool.md)             
 
 ———————————————————       
 ## 缝合怪矮小少AXS软路由专区(目前长期分发固件的设备型号：* x86_64 * 树莓派4B * R1SH5 * R1PLUS * R2S * R4S)
