@@ -35,7 +35,8 @@ curl -O https://raw.githubusercontent.com/boduoyejieyi666/whonolikeboduoyejieyi/
 wget --no-check-certificate https://raw.githubusercontent.com/boduoyejieyi666/whonolikeboduoyejieyi/main/sh/ss_rust_test.sh && chmod +x ./ss_rust_test.sh && ./ss_rust_test.sh
 ```       
 
-此页面所有脚本完全由天灵编写，不定期更新。        
-[天灵的电报频道链接](https://t.me/nanopi_r2s)                       
+此页面所有脚本完全由天灵编写，不定期更新。          
+[天灵的电报频道链接](https://t.me/nanopi_r2s)       
+![1](https://user-images.githubusercontent.com/73426989/121069967-b2c8ee80-c800-11eb-85c3-060cc7e9ae25.png)        
 
 [返回主页](https://github.com/boduoyejieyi666/whonolikeboduoyejieyi/blob/main/README.md)        
