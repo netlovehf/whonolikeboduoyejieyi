@@ -6,11 +6,11 @@
 ### 选择op分叉主体         
 
 从设备支持范围、魔改及新写插件丰富度来看，毫无疑问推荐使用[coolsnowwolf/lede](https://github.com/coolsnowwolf/lede)（最近竟然有openwrt官方成员来[吐槽](https://github.com/coolsnowwolf/lede/issues/6942)不pr到上游,真是太不了解中国大陆环境了...）
-此部分[操作说明](https://github.com/coolsnowwolf/lede#readme)已经很详细了            
+此部分[操作说明](https://github.com/coolsnowwolf/lede#readme)已经很详细了(git pull结束后此部分结束)            
 
 ### 需要手动添加ssrp、passwall、openclash等插件     
 这部分开始前先大声对火星来的说“[passwall](https://github.com/xiaorouji/openwrt-passwall)没有删库跑路，只是曾经私有库过一段时间，目前是xiaorouji own并主导开发中”          
-此部分操作说明：    
+此部分操作说明（保存编辑过的feeds.conf.default后此部分结束）：    
 ```
 #在拉取的op分叉主体的源码的feeds.conf.default文件(lede目录下即可找到)中添加：  
 src-git helloworld https://github.com/fw876/helloworld
@@ -24,4 +24,16 @@ src-git lienol https://github.com/Lienol/openwrt-package
 #其他的比如argonv3主题什么的，也都可以按照人家readme文档提示添加进feeds.conf.default文件中
 ```
 
-### 
+### 接下来就可以继续按照[操作说明](https://github.com/coolsnowwolf/lede#readme)中的三步走
+
+```
+./scripts/feeds update -a
+```
+```
+./scripts/feeds install -a
+```
+```
+make menuconfig
+```
+
+### menuconfig怎么选
