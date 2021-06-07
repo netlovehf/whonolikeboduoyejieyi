@@ -58,7 +58,8 @@ MTK MIPS架构的几个K2P、新三什么的必选mtwifi否则没无线信号,�
 Docker是很占用编译时间的，嫖Actions的必定不能选Docker，几乎必定超时。         
 硬路由一般爬墙插件类只勾选ssrplus : ssr client + xray (xray兼容v2ray、trojan、ss，硬路由勾选ssrp下面这两个就够用了，再多K2P一定超空间出不来固件)       
 其他的爬墙插件则不建议为硬路由勾选(注意：别忘记进passwall二层目录里把默认勾选的协议组件取消掉)           
-还有一些adbyby plus什么的几把玩意就别为硬路由勾选了,软路由也没必要勾选，去广告本来就不可避免有误伤，道义上也犯贱。![1](https://user-images.githubusercontent.com/73426989/121066548-99be3e80-c7fc-11eb-91a6-bebd60f084d9.png)docker想进硬路由的是傻逼。             
+还有一些adbyby plus什么的几把玩意就别为硬路由勾选了,软路由也没必要勾选，去广告本来就不可避免有误伤，道义上也犯贱。![1](https://user-images.githubusercontent.com/73426989/121066548-99be3e80-c7fc-11eb-91a6-bebd60f084d9.png)   
+docker想进硬路由的是傻逼。             
 软路由就无脑ssrp全勾+passwall全勾+openclash全勾+其他你知道的用过的一些什么各种文件服务器、VPN服务端、qos、TTYD、CPU频率调节、uu加速器、Qbtorrent......眼熟的都可以选，不熟的别选。     
 
 ### 编译  
