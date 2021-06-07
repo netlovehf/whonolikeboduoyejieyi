@@ -12,7 +12,7 @@
 * [查询IP地址](http://www.ip111.cn/)     
 * [几种加密算法下传输速度测试脚本](https://github.com/boduoyejieyi666/whonolikeboduoyejieyi/blob/main/sh/ss_test.md)                  
 * [GitHub各项服务状态](https://www.githubstatus.com)     
-* passwall的芝麻开门命令：     
+* passwall芝麻开门命令：     
 ```
 touch /etc/config/passwall_show        
 ```
