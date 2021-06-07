@@ -44,7 +44,7 @@ make menuconfig
 选好设备后，接下来几个你可能刚需的设置点：       
 
 ① Target Images > Root filesystem partition size >         
-建议软路由玩家设置大些，如果你的硬盘4GB以上，那么root分区大小改为1024MB推荐，硬路由玩家不要改动这里。        
+建议软路由玩家设置大些，如果你的硬盘4GB以上，那么root分区大小改为1024MB推荐，硬路由玩家无需操心。        
 
 ② Extra Packages > autocore、autosamba、automount、ipv6helper         
 无论软硬路由都可勾选了，没坏处。         
