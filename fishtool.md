@@ -36,4 +36,9 @@ src-git lienol https://github.com/Lienol/openwrt-package
 make menuconfig
 ```
 
-### menuconfig怎么选
+### menuconfig怎么选（这才是这篇作文的秘籍中的秘籍，一般人我不告诉他）           
+如何选到你的设备，例如R2S、X86_64、ACRH17这些设备怎么选到，请你谷歌一下“xxx openwrt编译”，找几个博客看一下就知道位置在哪了...             
+选好设备后，接下来几个你可能刚需的设置点：                    
+① Target Images > Root filesystem partition size > 建议软路由玩家设置大些，如果你的硬盘4GB以上，那么root分区大小改为1024MB推荐，硬路由玩家不要改动这里。            
+② 
+
