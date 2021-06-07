@@ -23,6 +23,7 @@ src-git lienol https://github.com/Lienol/openwrt-package
 #这是Lienol的package库，里面有一些lede里没有的包
 #其他的比如argonv3主题什么的，也都可以按照人家readme文档提示添加进feeds.conf.default文件中
 ```
+![1](https://user-images.githubusercontent.com/73426989/121067460-a7c08f00-c7fd-11eb-86ed-487ef6344690.png)      
 
 ### 接下来就可以继续按照[操作说明](https://github.com/coolsnowwolf/lede#readme)中的三步走
 
