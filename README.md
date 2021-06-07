@@ -62,7 +62,8 @@ openclash_TIPS：上手难度大且相比passwall没有突出优势，手动添�
 ## 入门教程区        
 
 * [总频道](https://t.me/OpenWRTcn)（教程/导航）      
-* [VPS/虚拟专用服务器/小鸡](https://github.com/boduoyejieyi666/whonolikeboduoyejieyi/blob/main/MyFanFan.md)         
+* [VPS/虚拟专用服务器/小鸡](https://github.com/boduoyejieyi666/whonolikeboduoyejieyi/blob/main/MyFanFan.md)       
+* [机场/梯子/广义VPN](./youlian/jichang.md)            
 
 ————————————————————        
 ## 其他推荐         
@@ -86,7 +87,6 @@ openclash_TIPS：上手难度大且相比passwall没有突出优势，手动添�
 * [奈菲影视](https://www.nfmovies.com/)      
 * [东东油管频道](https://www.youtube.com/c/BIGdongdong/videos)        
 * [老毛子Padavan固件发布](https://t.me/pdcn1)             
-* [机场/梯子/广义VPN](./youlian/jichang.md)        
 
 ————————————————————     
 ## about
