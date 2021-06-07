@@ -64,4 +64,5 @@ Docker是很占用编译时间的，嫖Actions的必定不能选Docker，几乎�
 ### 编译  
 一般都是个人半年编译一次自用，所以什么二次编译、DL预下载，这种情况下都是扯淡，编译完就在op目录下 rm -rf * 全部给扬了，下次编译重新拉源码就行了，费那么多事干嘛，半年编译一次自用，还学个鸡巴二次编译，学会了能涨工资还是能嫖娼不怕抓？                 
 
+[我都会了，但是我不想自己编译了](https://github.com/boduoyejieyi666/whonolikeboduoyejieyi/blob/main/README.md)              
 
