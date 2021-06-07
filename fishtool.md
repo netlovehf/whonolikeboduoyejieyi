@@ -6,7 +6,7 @@
 ### 选择op分叉主体         
 
 从设备支持范围、魔改及新写插件丰富度来看，毫无疑问推荐使用[coolsnowwolf/lede](https://github.com/coolsnowwolf/lede)（最近竟然有openwrt官方成员来[吐槽](https://github.com/coolsnowwolf/lede/issues/6942)不pr到上游,真是太不了解中国大陆环境了...）
-此部分[操作说明](https://github.com/coolsnowwolf/lede#readme)已经很详细了(git pull结束后此部分结束)            
+此部分[操作说明](https://github.com/coolsnowwolf/lede#readme)已经很详细了(git clone 结束后此部分结束)            
 
 ### 需要手动添加ssrp、passwall、openclash等插件     
 这部分开始前先大声对火星来的说“[passwall](https://github.com/xiaorouji/openwrt-passwall)没有删库跑路，只是曾经私有库过一段时间，目前是xiaorouji own并主导开发中”          
