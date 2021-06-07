@@ -25,7 +25,7 @@ touch /etc/config/passwall_show
 * [矮小少AXS软路由固件电报同步分发频道](https://t.me/aixiaoshao)         
     
 ———————————————————      
-## 垃圾佬刚刚好GGH硬路由专区(目前长期分发固件的设备型号：* ACRH17 * AC2100 * K2P * D2 * R619AC)
+## 垃圾佬刚刚好GGH硬路由专区(目前长期分发固件的设备型号：* ACRH17 * 竞斗云2.0P2W * K2P * AC2100 * 新三D2)
 刚刚好GGH：独宠ssrp        
 
 * [刚刚好GGH硬路由固件分发地址](https://github.com/boduoyejieyi666/immortalWrt/releases)             
