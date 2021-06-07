@@ -2,6 +2,7 @@
 
 ![OpenWrt logo](./logo.svg)          
 
+* 本仓库的博客页面(被墙中)：[链接](https://boduoyejieyi666.github.io/whonolikeboduoyejieyi/)            
 * 请有恩山账号的老手留言顶下这个 [帖子](https://www.right.com.cn/forum/thread-4053643-1-1.html) ：越过长城，走向世界！            
 * 提醒：以下链接需要翻墙访问，且最好有telegram（电报）账号登录telegram客户端           
 * [telegram客户端下载](https://telegram.org/apps)           
