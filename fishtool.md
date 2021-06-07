@@ -37,20 +37,31 @@ make menuconfig
 ```
 
 ### menuconfig怎么选            
-如何选到你的设备，例如R2S、X86_64、ACRH17这些设备怎么选到，请你谷歌一下“xxx openwrt编译”，找几个博客看一下就知道位置在哪了...           
-选好设备后，接下来几个你可能刚需的设置点：                     
-① Target Images > Root filesystem partition size > 建议软路由玩家设置大些，如果你的硬盘4GB以上，那么root分区大小改为1024MB推荐，硬路由玩家不要改动这里。      
-② Extra Packages > autocore、autosamba、automount、ipv6helper无论软硬路由都可勾选了，没坏处。          
-③ Network > Firewall > ip6tables > ip6tables-extra、ip6tables-mod-nat都勾了。             
-④ LuCI > Themes > 一般不建议勾选bootstrap之外的主题，实在想玩花里胡哨，就在前面步骤的手动添加包时找个argon v3的主题放到feeds.conf.default中，然后还要在LuCI > Appliactions中勾选argon_config。              
-⑤ LuCI > Applications > 
-MTK MIPS架构的几个K2P、新三什么的必选mtwifi否则没无线信号,如果没看到mtwifi选项那就无所谓了，可能大雕调整了mtwifi的位置并且默认选上了，你不用操心了。其他的软路由无需操心wifi驱动。    
-Docker是很占用编译时间的，嫖Actions的必定不能选Docker，几乎必定超时。      
-硬路由一般爬墙插件类只勾选ssrplus : ssr client + xray (xray兼容v2ray、trojan、ss，硬路由勾选ssrp下面这两个就够用了，再多K2P一定超空间出不来固件) ，其他的爬墙插件则不建议为硬路由勾选(注意：别忘记进passwall二层目录里把默认勾选的协议组件取消掉)，还有一些adbyby plus什么的几把玩意就别为硬路由勾选了，甚至docker进硬路由的傻逼。 
-软路由就ssrp全勾+passwall全勾+openclash全勾+其他你知道的用过的一些什么各种文件服务器、VPN服务端、qos、TTYD、CPU频率调节、uu加速器、Qbtorrent......眼熟的都可以选，不熟的别选。    
+如何选到你的设备，例如R2S、X86_64、ACRH17这些设备怎么选到，请你谷歌一下“xxx openwrt编译”，找几个博客看一下就知道位置在哪了...        
+选好设备后，接下来几个你可能刚需的设置点：       
+
+① Target Images > Root filesystem partition size >         
+建议软路由玩家设置大些，如果你的硬盘4GB以上，那么root分区大小改为1024MB推荐，硬路由玩家不要改动这里。        
+
+② Extra Packages > autocore、autosamba、automount、ipv6helper         
+无论软硬路由都可勾选了，没坏处。         
+
+③ Network > Firewall > ip6tables > ip6tables-extra、ip6tables-mod-nat        
+都勾了。         
+
+④ LuCI > Themes >          
+一般不建议勾选bootstrap之外的主题，实在想玩花里胡哨，就在前面步骤的手动添加包时找个argon v3的主题放到feeds.conf.default中，然后还要在LuCI > Appliactions中勾选argon_config。     
+
+⑤ LuCI > Applications >         
+MTK MIPS架构的几个K2P、新三什么的必选mtwifi否则没无线信号,如果没看到mtwifi选项那就无所谓了，可能大雕调整了mtwifi的位置并且默认选上了，你不用操心了。          
+其他的软路由无需操心wifi驱动。            
+Docker是很占用编译时间的，嫖Actions的必定不能选Docker，几乎必定超时。         
+硬路由一般爬墙插件类只勾选ssrplus : ssr client + xray (xray兼容v2ray、trojan、ss，硬路由勾选ssrp下面这两个就够用了，再多K2P一定超空间出不来固件)       
+其他的爬墙插件则不建议为硬路由勾选(注意：别忘记进passwall二层目录里把默认勾选的协议组件取消掉)           
+还有一些adbyby plus什么的几把玩意就别为硬路由勾选了,软路由也没必要勾选，去广告本来就不可避免有误伤，道义上也犯贱。docker想进硬路由的是傻逼。             
+软路由就无脑ssrp全勾+passwall全勾+openclash全勾+其他你知道的用过的一些什么各种文件服务器、VPN服务端、qos、TTYD、CPU频率调节、uu加速器、Qbtorrent......眼熟的都可以选，不熟的别选。     
 
 ### 编译  
-一般都是个人半年编译一次自用，所以本地vmware虚拟机编译即可，别浪费微软算力了骚年。        
-所以什么二次编译，DL预下载，这种情况下都是扯淡，编译完就在op目录下 rm -rf * 下次编译重新拉源码就行了，费那么多事干嘛，半年编译一次自用，还学个鸡巴二次编译，能给你发工资还是怎么的？       
+一般都是个人半年编译一次自用，所以什么二次编译、DL预下载，这种情况下都是扯淡，编译完就在op目录下 rm -rf * 全部给扬了，下次编译重新拉源码就行了，费那么多事干嘛，半年编译一次自用，还学个鸡巴二次编译，学会了能涨工资还是能嫖娼不怕抓？                 
 
 
