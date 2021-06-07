@@ -46,7 +46,7 @@ make menuconfig
 ⑤ LuCI > Applications > 
 MTK MIPS架构的几个K2P、新三什么的必选mtwifi否则没无线信号,如果没看到mtwifi选项那就无所谓了，可能大雕调整了mtwifi的位置并且默认选上了，你不用操心了。其他的软路由无需操心wifi驱动。    
 Docker是很占用编译时间的，嫖Actions的必定不能选Docker，几乎必定超时。      
-硬路由一般爬墙插件类只勾选ssrplus:ssr client + xray(xray兼容v2ray、trojan、ss，硬路由勾选ssrp下面这两个就够用了，再多K2P一定超空间出不来固件)，其他的爬墙插件则不建议为硬路由勾选(注意：别忘记进passwall二层目录里把默认勾选的协议组件取消掉)，还有一些adbyby plus什么的几把玩意就别为硬路由勾选了，甚至docker进硬路由的傻逼。 
+硬路由一般爬墙插件类只勾选ssrplus : ssr client + xray (xray兼容v2ray、trojan、ss，硬路由勾选ssrp下面这两个就够用了，再多K2P一定超空间出不来固件) ，其他的爬墙插件则不建议为硬路由勾选(注意：别忘记进passwall二层目录里把默认勾选的协议组件取消掉)，还有一些adbyby plus什么的几把玩意就别为硬路由勾选了，甚至docker进硬路由的傻逼。 
 软路由就ssrp全勾+passwall全勾+openclash全勾+其他你知道的用过的一些什么各种文件服务器、VPN服务端、qos、TTYD、CPU频率调节、uu加速器、Qbtorrent......眼熟的都可以选，不熟的别选。    
 
 ### 编译  
