@@ -89,7 +89,8 @@ openclash_TIPS：上手难度大且相比passwall没有突出优势，手动添�
 * [passwall及其他主流插件的ipk文件每日更新分发](https://t.me/passwallIPKnb)                         
 * [奈菲影视](https://www.nfmovies.com/)      
 * [东东油管频道](https://www.youtube.com/c/BIGdongdong/videos)        
-* [老毛子Padavan固件发布](https://t.me/pdcn1)             
+* [老毛子Padavan固件发布](https://t.me/pdcn1)           
+* [AX3600固件源码](https://github.com/robimarko/openwrt/tree/AX3600-5.10-restart)              
 
 ————————————————————     
 ## about
