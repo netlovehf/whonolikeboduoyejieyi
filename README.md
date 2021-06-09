@@ -91,7 +91,8 @@ openclash_TIPS：上手难度大且相比passwall没有突出优势，手动添�
 * [东东油管频道](https://www.youtube.com/c/BIGdongdong/videos)        
 * [老毛子Padavan固件发布](https://t.me/pdcn1)           
 * [AX3600固件源码](https://github.com/robimarko/openwrt/tree/AX3600-5.10-restart)              
-* [ImmortalWrt官方发行地址](https://firmware.download.immortalwrt.eu.org/)
+* [ImmortalWrt官方发行地址](https://firmware.download.immortalwrt.eu.org/)       
+
 ————————————————————     
 ## about
 本页面打理目前由 [Audrey](https://t.me/AudreyHB1314) 负责，有事请联系它(仅限于友链等正事。其他的BUG反馈什么的请在发布的固件说明里找到对应issues去反馈)      
