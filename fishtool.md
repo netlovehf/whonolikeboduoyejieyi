@@ -6,7 +6,7 @@
 
 ### 选择op分叉主体         
 
-从设备支持范围、魔改及新写插件丰富度来看，毫无疑问推荐使用[coolsnowwolf/lede](https://github.com/coolsnowwolf/lede)（最近竟然有openwrt官方成员来[吐槽](https://github.com/coolsnowwolf/lede/issues/6942)不pr到上游,真是太不了解中国大陆环境了...）   
+从设备支持范围、魔改及新写插件丰富度来看，毫无疑问推荐使用[coolsnowwolf/lede](https://github.com/coolsnowwolf/lede)       
 ![1](https://user-images.githubusercontent.com/73426989/121067818-1a316f00-c7fe-11eb-9978-4fe568193fd4.png)  
 此部分[操作说明](https://github.com/coolsnowwolf/lede#readme)已经很详细了(git clone 结束后此部分结束)            
 
