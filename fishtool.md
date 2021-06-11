@@ -64,7 +64,7 @@ Docker是很占用编译时间的，嫖Actions的必定不能选Docker，几乎�
 还有一些adbyby plus什么的几把玩意就别为硬路由勾选了,软路由也没必要勾选，去广告本来就不可避免有误伤，道义上也犯贱。![1](https://user-images.githubusercontent.com/73426989/121066548-99be3e80-c7fc-11eb-91a6-bebd60f084d9.png)   
 docker想进硬路由的是傻逼。             
 软路由就无脑ssrp全勾+passwall全勾+openclash全勾+其他你知道的用过的一些什么各种文件服务器、VPN服务端、qos、TTYD、CPU频率调节、uu加速器......眼熟的都可以选，不熟的别选。   
-![1](https://user-images.githubusercontent.com/73426989/121068063-6086ce00-c7fe-11eb-819d-c002e1103b14.png)            
+![1](https://user-images.githubusercontent.com/73426989/121642667-69f48c80-cac3-11eb-9034-e67292c4a701.png)
 
 ### 编译  
 一般都是个人半年编译一次自用，所以什么二次编译、DL预下载，这种情况下都是扯淡，编译完就在op目录下 rm -rf * 全部给扬了，下次编译重新拉源码就行了，费那么多事干嘛，半年编译一次自用，还学个鸡巴二次编译，学会了能涨工资还是能嫖娼不怕抓？![1](https://user-images.githubusercontent.com/73426989/121065702-a42c0880-c7fb-11eb-862e-6498f28eb4d4.png)                     
