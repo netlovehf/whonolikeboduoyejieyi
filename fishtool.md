@@ -15,17 +15,22 @@
 此部分操作说明（保存编辑过的feeds.conf.default后此部分结束）：    
 ```
 #在拉取的op分叉主体的源码的feeds.conf.default文件(lede目录下即可找到)中添加：  
+
 src-git helloworld https://github.com/fw876/helloworld
-#这是ssrp插件的最新库地址，只是库名字叫helloworld，包名字其实还是ssrplus这个比，安装好后是界面是shadowsocksR plus +这个比，千变万化我是你爸...
+#这是ssrp插件的最新库地址，只是库名字叫helloworld，包名字其实还是ssrplus这个比，安装好后是界面是shadowsocksR plus + 这个比，千变万化我是你爸...      
+
 src-git passwall https://github.com/xiaorouji/openwrt-passwall   
-#这是passwall插件的最新库地址，库名、包名、菜单名目前统一，之前菜单名是 科学上网、...还有什么名字瞎几把改的我忘了...
+#这是passwall插件的最新库地址，库名、包名、菜单名目前统一，之前菜单名是 科学上网、...还有什么名字瞎几把改的我忘了...      
+
 src-git OpenClash https://github.com/vernesong/OpenClash
-#这是openclash插件的最新库地址
+#这是openclash插件的最新库地址       
+
 src-git lienol https://github.com/Lienol/openwrt-package
-#这是Lienol的package库，里面有一些lede里没有的包
+#这是Lienol的package库，里面有一些lede里没有的包      
+
 #其他的比如argonv3主题什么的，也都可以按照人家readme文档提示添加进feeds.conf.default文件中
 ```
-![1](https://user-images.githubusercontent.com/73426989/121067460-a7c08f00-c7fd-11eb-86ed-487ef6344690.png)      
+![1](https://user-images.githubusercontent.com/73426989/121642837-a2946600-cac3-11eb-8165-0ed282687a1e.png)
 
 ### 接下来就可以继续按照[操作说明](https://github.com/coolsnowwolf/lede#readme)中的三步走
 
