@@ -47,7 +47,7 @@ die () {
     echo $1
 }
 
-ipv6s=`ip addr show eth0 | grep "inet6.*global" | awk '{print $2}' | awk -F"/" '{print $1}'` || die "$ipv6"
+ipv6s=`ip addr show enp1s0 | grep "inet6.*global" | awk '{print $2}' | awk -F"/" '{print $1}'` || die "$ipv6"
 
 for ipv6 in $ipv6s
 do
