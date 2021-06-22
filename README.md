@@ -8,11 +8,12 @@
 * [telegram汉化简体(推荐第三方)](https://t.me/setlanguage/classic-zh)     
 * [telegram汉化简体(官方测试版本)](https://t.me/setlanguage/zh-hans-raw)      
 * [telegram汉化繁体(官方测试版本)](https://t.me/setlanguage/zh-hant-raw)    
-* [单线程测速](http://speed.cloudflare.com)     
-* [查询IP地址](http://www.ip111.cn/)     
+* [单线程测速](http://speed.cloudflare.com)   
+* [ping检测](http://ping.chinaz.com)             
+* [查询IP地址](http://www.ip111.cn)     
 * [几种加密算法下传输速度测试脚本](https://github.com/boduoyejieyi666/whonolikeboduoyejieyi/blob/main/sh/ss_test.md)                  
 * [GitHub各项服务状态](https://www.githubstatus.com)     
-* [主流网站的可用状态](https://downdetector.com/)        
+* [主流网站的可用状态](https://downdetector.com)        
 * passwall芝麻开门命令：     
 ```
 touch /etc/config/passwall_show        
