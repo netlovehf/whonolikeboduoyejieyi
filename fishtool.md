@@ -2,11 +2,11 @@
 ## 这里是简短的编译OpenWrt入门秘籍 
 ![1](https://user-images.githubusercontent.com/73426989/121067643-e0606880-c7fd-11eb-8673-6a8747853c20.png)    
 
-截至2021.06.07，除了[ImmortalWrt](https://github.com/immortalwrt/immortalwrt)缝合好了几大爬墙插件可供直接make编译，其他的Op分叉都或注释或分离或隐藏了，为了照顾新人定制编译属于自己的固件，故有了这篇高考期间的openwrt小作文...     
+截至2021.06.07，除了[ImmortalWrt](https://github.com/immortalwrt/immortalwrt)（天灵推荐编译环境系统为Ubuntu18.04）缝合好了几大爬墙插件可供直接make编译，其他的Op分叉都或注释或分离或隐藏了，为了照顾新人定制编译属于自己的固件，故有了这篇高考期间的openwrt小作文...     
 
 ### 选择op分叉主体         
 
-从设备支持范围、魔改及新写插件丰富度来看，毫无疑问推荐使用[coolsnowwolf/lede](https://github.com/coolsnowwolf/lede)       
+从设备支持范围、魔改及新写插件丰富度来看，毫无疑问推荐使用[coolsnowwolf/lede](https://github.com/coolsnowwolf/lede)         
 ![1](https://user-images.githubusercontent.com/73426989/121067818-1a316f00-c7fe-11eb-9978-4fe568193fd4.png)  
 此部分[操作说明](https://github.com/coolsnowwolf/lede#readme)已经很详细了(git clone 结束后此部分结束)            
 
