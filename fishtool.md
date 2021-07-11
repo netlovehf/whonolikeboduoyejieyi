@@ -28,7 +28,7 @@ src-git OpenClash https://github.com/vernesong/OpenClash
 src-git lienol https://github.com/Lienol/openwrt-package
 #这是Lienol的package库，里面有一些lede里没有的包      
 
-#其他的比如argonv3主题什么的，也都可以按照人家readme文档提示添加进feeds.conf.default文件中
+#其他的比如argonv3主题什么的，也都可以按照人家readme文档提示添加进package文件中
 ```
 ![1](https://user-images.githubusercontent.com/73426989/121642837-a2946600-cac3-11eb-8165-0ed282687a1e.png)
 
