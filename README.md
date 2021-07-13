@@ -54,14 +54,6 @@ passwall_TIPS：自带分流覆盖netflix、telegram等，已经满足大部分�
 或      
 * [x86_64 passwallOpenWrt半官方软路由固件GitHub同步分发地址](https://github.com/boduoyejieyi666/passwallOpenWRT/releases)           
 
-
-### 推荐动手能力超强喜爱究极自定义的专业用户使用。多插件版本采用 [openclash](https://github.com/vernesong/OpenClash) + [主力适配OpenWrt分叉](https://github.com/coolsnowwolf/lede)   
-openclash_TIPS：上手难度大且相比passwall没有突出优势，手动添加黑白名单也比ssrp和passwall复杂，目前来看实在没必要在openwrt系统中采用基于clash内核的openclash。         
-
-* [x86_64 clashOpenWrt软路由固件非官方频道](https://t.me/clashOpenWRT233)          
-或       
-* [x86_64 clashOpenWrt非官方软路由固件GitHub同步分发地址](https://github.com/boduoyejieyi666/clashOpenWRT/releases)               
-
 ————————————————————        
 ## 入门教程区        
 
