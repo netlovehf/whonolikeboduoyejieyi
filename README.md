@@ -63,7 +63,8 @@ passwall_TIPS：自带分流覆盖netflix、telegram等，已经满足大部分�
 
 ————————————————————        
 ## 其他推荐         
-
+* [ssrp及其他主流插件的ipk文件分发](https://t.me/ssrpIPKnb)      
+* [passwall及其他主流插件的ipk文件分发](https://t.me/passwallIPKnb)      
 * [Lean的官方ssrpOpenWrt编译Actions](https://github.com/coolsnowwolf/lede/actions) (测试源码编译通过性目的)              
 * [Lean的稳定版OpenWrt分叉](https://github.com/coolsnowwolf/openwrt)              
 * [Hyird倾情打造源安装插件OpenWrt固件](./youlian/Hyird1.md)               
@@ -74,9 +75,7 @@ passwall_TIPS：自带分流覆盖netflix、telegram等，已经满足大部分�
 * [小报频道](https://t.me/FQnews) （数码资讯搬运、群友日常吐槽）         
 * [passwall初代开发者Lienol的电报群](https://t.me/openwrtcs) (Lienol目前已经不参与passwall开发。passwall由xiaorouji接手开发中)                
 * [openclash开发者vernesong主要出没群](https://t.me/ctcgfw_openwrt_discuss)     
-* [天灵的频道](https://t.me/nanopi_r2s)          
-* [ssrp及其他主流插件的ipk文件每日更新分发](https://t.me/ssrpIPKnb)      
-* [passwall及其他主流插件的ipk文件每日更新分发](https://t.me/passwallIPKnb)                         
+* [天灵的频道](https://t.me/nanopi_r2s)                             
 * [奈菲影视](https://www.nfmovies.com/)      
 * [东东油管频道](https://www.youtube.com/c/BIGdongdong/videos)        
 * [老毛子Padavan固件发布](https://t.me/pdcn1)           
