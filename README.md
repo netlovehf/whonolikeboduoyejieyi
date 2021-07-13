@@ -1,4 +1,4 @@
-![1](https://user-images.githubusercontent.com/73426989/121419280-5e5b7580-c99e-11eb-8a32-57956bf0572f.png)
+![1](https://user-images.githubusercontent.com/73426989/125504129-4d586112-7d86-4bec-957b-ba9ac36f5ab1.png)       
 # OpenWrt中国大陆分叉圈       
 
 * 本仓库的博客页面(被墙中)：[链接](https://boduoyejieyi666.github.io/whonolikeboduoyejieyi/)            
