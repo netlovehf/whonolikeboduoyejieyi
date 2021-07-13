@@ -72,7 +72,7 @@ docker想进硬路由的是傻逼。
 ![1](https://user-images.githubusercontent.com/73426989/121642667-69f48c80-cac3-11eb-9034-e67292c4a701.png)
 
 ### 编译  
-一般都是个人半年编译一次自用，所以什么二次编译、DL预下载，这种情况下都是扯淡，编译完就在op目录下 rm -rf * 全部给扬了，下次编译重新拉源码就行了，费那么多事干嘛，半年编译一次自用，还学个鸡巴二次编译，学会了能涨工资还是能嫖娼不怕抓？![1](https://user-images.githubusercontent.com/73426989/121065702-a42c0880-c7fb-11eb-862e-6498f28eb4d4.png)                     
+一般都是个人一年编译一次自用，所以什么二次编译、DL预下载，这种情况下都是扯淡，编译完就在op目录下 rm -rf * 全部给扬了，下次编译重新拉源码就行了，费那么多事干嘛，半年编译一次自用，还学个鸡巴二次编译，学会了能涨工资还是能嫖娼不怕抓？![1](https://user-images.githubusercontent.com/73426989/121065702-a42c0880-c7fb-11eb-862e-6498f28eb4d4.png)                     
 
 [我都会了，但是我不想自己编译了,我只需要嫖现成的固件](https://github.com/boduoyejieyi666/whonolikeboduoyejieyi/blob/main/README.md)              
 
