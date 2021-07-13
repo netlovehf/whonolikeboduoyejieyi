@@ -65,10 +65,7 @@ passwall_TIPS：自带分流覆盖netflix、telegram等，已经满足大部分�
 ## 其他推荐         
 
 * [Lean的官方ssrpOpenWrt编译Actions](https://github.com/coolsnowwolf/lede/actions) (测试源码编译通过性目的)              
-* [Lean的官方ssrpOpenWrt编译电报同步分发频道](https://t.me/joinchat/SI86ePErDKGj4EMO)         
-* [Lean的稳定版OpenWrt分叉](https://github.com/coolsnowwolf/openwrt)        
-* [Lienol的官方passwallOpenWrt编译Actions](https://github.com/Lienol/openwrt-actions/actions) (测试源码编译通过性目的)(官方Actions停止，恢复时间等通知)     
-* [Lienol的官方passwallOpenWrt编译电报同步分发频道](https://t.me/joinchat/RfMYmxinmIxf8pRw) (由频道团队接管中)               
+* [Lean的稳定版OpenWrt分叉](https://github.com/coolsnowwolf/openwrt)              
 * [Hyird倾情打造源安装插件OpenWrt固件](./youlian/Hyird1.md)               
 * [专注Pi/派固件](./youlian/Pi.md)        
 * [ssrp开发者Lean的电报群](https://t.me/joinchat/JhKgAA6Hx1uiihA7RaTW1w)          
