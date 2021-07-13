@@ -11,14 +11,15 @@
 * [单线程测速](http://speed.cloudflare.com)   
 * [ping检测](http://ping.chinaz.com)             
 * [查询IP地址](http://www.ip111.cn)     
-* [几种加密算法下传输速度测试脚本](https://github.com/boduoyejieyi666/whonolikeboduoyejieyi/blob/main/sh/ss_test.md)                  
+* [几种加密算法下传输速度测试脚本](https://github.com/boduoyejieyi666/whonolikeboduoyejieyi/blob/main/sh/ss_test.md)             
+* [OpenWrt编译入门秘籍](https://github.com/boduoyejieyi666/whonolikeboduoyejieyi/blob/main/fishtool.md)           
 * [GitHub各项服务状态](https://www.githubstatus.com)     
 * [主流网站的可用状态](https://downdetector.com)        
 * passwall芝麻开门命令：     
 ```
 touch /etc/config/passwall_show        
 ```
-* [OpenWrt编译入门秘籍](https://github.com/boduoyejieyi666/whonolikeboduoyejieyi/blob/main/fishtool.md)             
+       
 
 ———————————————————       
 ## 缝合怪矮小少AXS软路由专区(目前长期分发固件的设备型号：* x86_64 * 树莓派4B * R1SH5 * R1PLUS * R2S * R4S)
