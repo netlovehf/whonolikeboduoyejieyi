@@ -21,7 +21,7 @@ touch /etc/config/passwall_show
 ```
 * ssrp芝麻开门命令：          
 ```
-echo 0xDEADBEEF  > /etc/config/google_fu_mode
+echo 0xDEADBEEF > /etc/config/google_fu_mode
 ```
 ———————————————————       
 ## 缝合怪矮小少AXS软路由专区(目前长期分发固件的设备型号：* x86_64 * 树莓派4B * R1SH5 * R1PLUS * R2S * R4S)
