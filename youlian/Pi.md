@@ -1,4 +1,4 @@
-[回到主页面](https://github.com/boduoyejieyi666/whonolikeboduoyejieyi/blob/main/README.md)            
+[回到主页面](https://boduoyejieyi666.github.io/whonolikeboduoyejieyi/)            
 
 专注部分派/PI固件:        
 [发布页](https://github.com/Wygdbb/OpenWRT-For-Pi)          
