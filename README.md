@@ -11,7 +11,7 @@
 * [单线程测速](http://speed.cloudflare.com)   
 * [ping检测](http://ping.chinaz.com)             
 * [查询IP地址](http://www.ip111.cn)     
-* [几种加密算法下传输速度测试脚本](https://github.com/boduoyejieyi666/whonolikeboduoyejieyi/blob/main/sh/ss_test.md)             
+* [几种加密算法下传输速度测试脚本](./sh/ss_test.md)             
 * [OpenWrt编译入门秘籍](https://github.com/boduoyejieyi666/whonolikeboduoyejieyi/blob/main/fishtool.md)           
 * [GitHub各项服务状态](https://www.githubstatus.com)     
 * [主流网站的可用状态](https://downdetector.com)        
