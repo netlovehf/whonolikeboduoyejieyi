@@ -25,7 +25,7 @@ Test IP: 118.240.1.111
 日本，东京都(Softbank)               
 Test IP: 61.196.104.100       
 
-* [可供参考测试结果](https://github.com/boduoyejieyi666/whonolikeboduoyejieyi/blob/main/MyFanFanTest.md)       
+* [可供参考测试结果](./MyFanFanTest.md)       
 
 * 具体Offer内容如下(后期可能会调整，请参见官网购买页面)：          
 
