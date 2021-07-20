@@ -39,4 +39,4 @@ wget --no-check-certificate https://raw.githubusercontent.com/boduoyejieyi666/wh
 [天灵的电报频道链接](https://t.me/nanopi_r2s)       
 ![1](https://user-images.githubusercontent.com/73426989/121069967-b2c8ee80-c800-11eb-85c3-060cc7e9ae25.png)        
 
-[返回主页](https://github.com/boduoyejieyi666/whonolikeboduoyejieyi/blob/main/README.md)        
+[返回主页](https://boduoyejieyi666.github.io/whonolikeboduoyejieyi/)        
