@@ -1,4 +1,4 @@
-[回到主页面](https://github.com/boduoyejieyi666/whonolikeboduoyejieyi/blob/main/README.md)                            
+[回到主页面](https://boduoyejieyi666.github.io/whonolikeboduoyejieyi/youlian/jichang.html)                            
 
 老牌 技术流 奈飞机场（广义VPN/翻墙梯子）“Mielink”:          
 [注册链接](http://mielink-invite.com/register?aff=qinqin)          
