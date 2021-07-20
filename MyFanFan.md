@@ -1,9 +1,10 @@
-[回到主页面](https://github.com/boduoyejieyi666/whonolikeboduoyejieyi/blob/main/README.md)             
+[回到主页面](https://boduoyejieyi666.github.io/whonolikeboduoyejieyi/)             
 
 # 奥黛丽赫本向您安利的VPS(虚拟专用服务器)          
 * [点击这里的注册链接](https://www.tokyonline.com/aff.php?aff=2)       
 * VPS是需要时间进货的，刚起步可能买的人较多，没货的话请耐心等待补货哦❤          
-* 这是OpenWrtcn频道及附属频道主Audrey自己的AFF，大家看在宝宝辛辛苦苦整理各大权威固件和资讯的份上，如果正好有购买VPS需求的话，可以支持下赫本呦❤![1](https://user-images.githubusercontent.com/73426989/121070198-ff142e80-c800-11eb-9a44-0418e3ffffd5.png)              
+* 这是OpenWrtcn频道及附属频道主Audrey自己的AFF，大家看在宝宝辛辛苦苦整理各大权威固件和资讯的份上，如果正好有购买VPS需求的话，可以支持下赫本呦❤         
+![1](https://user-images.githubusercontent.com/73426989/121070198-ff142e80-c800-11eb-9a44-0418e3ffffd5.png)              
 * 记住，不怕麻烦的话一定要月付，除非你用了很久后感觉信任了可以买久点。虽然我和老板比较熟悉，但是大家多留心没坏处。              
 * 只有能不能满足你需求的合适的，没有对所有人来说都是最好的。购买短期试用体验好再续费，不需要到处吹也别到处黑，每个人体验过都会有自己的决定，你不代表所有人            
 * 刚上线可能会被同行打，大家注意留意官网及频道通知(都可以注册登录后在官网里找到相关入口)             
