@@ -12,7 +12,7 @@
 * [ping检测](http://ping.chinaz.com)             
 * [查询IP地址](http://www.ip111.cn)     
 * [几种加密算法下传输速度测试脚本](./sh/ss_test.md)             
-* [OpenWrt编译入门秘籍](https://github.com/boduoyejieyi666/whonolikeboduoyejieyi/blob/main/fishtool.md)           
+* [OpenWrt编译入门秘籍](./fishtool.md)           
 * [GitHub各项服务状态](https://www.githubstatus.com)     
 * [主流网站的可用状态](https://downdetector.com)        
 * passwall芝麻开门命令：     
@@ -60,7 +60,7 @@ passwall_TIPS：自带分流覆盖netflix、telegram等，已经满足大部分�
 ## 入门教程区        
 
 * [总频道](https://t.me/OpenWRTcn)（教程/导航）      
-* [VPS/虚拟专用服务器/小鸡](https://github.com/boduoyejieyi666/whonolikeboduoyejieyi/blob/main/MyFanFan.md)       
+* [VPS/虚拟专用服务器/小鸡](./MyFanFan.md)       
 * [机场/梯子/广义VPN](./youlian/jichang.md)            
 
 ————————————————————        
