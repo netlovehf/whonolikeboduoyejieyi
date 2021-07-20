@@ -13,4 +13,4 @@
 * 2020.12.30 Mielink v3/v4等级节点测速图（为了保证全体用户的体验不被个别用户极限占用所破坏，故有限速）:                      
 ![](./1.jpg)  
 
-[如果有VPS需求点击这里](https://github.com/boduoyejieyi666/whonolikeboduoyejieyi/blob/main/MyFanFan.md)               
+[如果有VPS需求点击这里](https://boduoyejieyi666.github.io/whonolikeboduoyejieyi/MyFanFan.html)      
