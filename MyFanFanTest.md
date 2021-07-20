@@ -1,4 +1,4 @@
-[返回上一页](https://github.com/boduoyejieyi666/whonolikeboduoyejieyi/blob/main/MyFanFan.md)         
+[返回上一页](https://boduoyejieyi666.github.io/whonolikeboduoyejieyi/MyFanFan.html)         
 
 # 服务器测试报告: 日本 东京都 so-net.ne.jp        
 ![](./MyFanFan/1.png)     
