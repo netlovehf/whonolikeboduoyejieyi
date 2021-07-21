@@ -1,8 +1,5 @@
-![1](https://user-images.githubusercontent.com/73426989/125504129-4d586112-7d86-4bec-957b-ba9ac36f5ab1.png)    
-![1](https://user-images.githubusercontent.com/73426989/126493069-66adc79f-f686-45d8-a227-ab832aef9f9a.png)
-
+![1920px-OpenWrt_Logo svg](https://user-images.githubusercontent.com/73426989/126493225-32e83f27-0b20-4702-a95e-a8b0d761184f.png)     
 # OpenWrt中国大陆分叉圈       
-
 * 本仓库的博客页面(被墙中)：[链接](https://boduoyejieyi666.github.io/whonolikeboduoyejieyi/)            
 * 请有恩山账号的老手留言顶下这个 [帖子](https://www.right.com.cn/forum/thread-4053643-1-1.html) ：越过长城，走向世界！            
 * 提醒：以下链接需要翻墙访问，且最好有telegram（电报）账号登录telegram客户端           
