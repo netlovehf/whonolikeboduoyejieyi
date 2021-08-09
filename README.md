@@ -27,13 +27,13 @@ echo 0xDEADBEEF > /etc/config/google_fu_mode
 ## 缝合怪矮小少AXS软路由专区(目前长期分发固件的设备型号：* x86_64 * 树莓派4B * R1PLUS * R2S * R4S)
 矮小少AXS：缝合了ssrp+passwall+openclash+其他杂交品种翻墙插件+铁头娃们写的盗版及破解插件           
   
-* [矮小少AXS软路由固件频道](https://t.me/aixiaoshao)         
+* [AXS矮小少软路由固件频道](https://t.me/aixiaoshao)         
     
 ———————————————————      
 ## 垃圾佬刚刚好GGH硬路由专区(目前长期分发固件的设备型号：* AX6 * AX3600 * AX9000 * ACRH17 * 竞斗云2.0P2W * AC2100 * 新三D2)
 刚刚好GGH：独宠ssrp        
 
-* [刚刚好GGH硬路由固件频道](https://t.me/gangganghao233)            
+* [GGH刚刚好硬路由固件频道](https://t.me/gangganghao233)            
            
 ———————————————————      
 ## x86_64原生态专区     
@@ -72,11 +72,8 @@ passwall_TIPS：自带分流覆盖netflix、telegram等，已经满足大部分�
 * [passwall初代开发者Lienol的电报群](https://t.me/joinchat/7eoFQG0BJC1hN2Q1) (Lienol目前已经不参与passwall开发。passwall由xiaorouji接手开发中)                
 * [openclash开发者vernesong主要出没群](https://t.me/ctcgfw_openwrt_discuss)     
 * [天灵的频道](https://t.me/nanopi_r2s)                             
-* [奈菲影视](https://www.nfmovies.com/)      
 * [东东油管频道](https://www.youtube.com/c/BIGdongdong/videos)        
 * [老毛子Padavan固件发布](https://t.me/pdcn1)           
-* [AX3600固件源码](https://github.com/robimarko/openwrt/tree/AX3600-5.10-restart)              
-* [ImmortalWrt官方发行地址](https://firmware.download.immortalwrt.eu.org/)       
 
 ————————————————————    
 ## about
