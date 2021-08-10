@@ -27,13 +27,13 @@ echo 0xDEADBEEF > /etc/config/google_fu_mode
 ## 缝合怪矮小少AXS软路由专区(目前长期分发固件的设备型号：* x86_64 * 树莓派4B * R1PLUS * R2S * R4S)
 矮小少AXS：缝合了ssrp+passwall+openclash+其他杂交品种翻墙插件+铁头娃们写的盗版及破解插件           
   
-* [AXS矮小少软路由固件频道](https://t.me/aixiaoshao)         
+* [AXS矮小少软路由固件](https://t.me/aixiaoshao)         
     
 ———————————————————      
 ## 垃圾佬刚刚好GGH硬路由专区(目前长期分发固件的设备型号：* AX6 * AX3600 * AX9000 * ACRH17 * 竞斗云2.0P2W * AC2100 * 新三D2)
 刚刚好GGH：独宠ssrp        
 
-* [GGH刚刚好硬路由固件频道](https://t.me/gangganghao233)            
+* [GGH刚刚好硬路由固件](https://t.me/gangganghao233)            
            
 ———————————————————      
 ## x86_64原生态专区     
@@ -43,12 +43,12 @@ echo 0xDEADBEEF > /etc/config/google_fu_mode
 ### 推荐小白及不爱折腾用户使用。多插件版本采用 [ssrp](https://github.com/fw876/helloworld) 所属 [原生OpenWrt分叉](https://github.com/coolsnowwolf/lede)       
 ssrp_TIPS：目前分流只有一个netflix，且无法手动添加更多分流规则。      
 
-* [x86_64 ssrpOpenWrt软路由固件半官方频道](https://t.me/ssrpOpenWRT)      
+* [x86_64 ssrpOpenWrt](https://t.me/ssrpOpenWRT)      
 
 ### 推荐喜爱自定义更多用户使用。多插件版本采用 [passwall](https://github.com/xiaorouji/openwrt-passwall) 所属 [原生OpenWrt分叉](https://github.com/Lienol/openwrt) 
 passwall_TIPS：自带分流覆盖netflix、telegram等，已经满足大部分人需求，且可以手动导入新的分流规则，可以说是能够完全满足所有分流人群的需求。所以passwall是最佳推荐翻墙插件。   
 
-* [x86_64 passwallOpenWrt软路由固件半官方频道](https://t.me/passwallOpenWRT233)      
+* [x86_64 passwallOpenWrt](https://t.me/passwallOpenWRT233)      
 
 ————————————————————        
 ## 入门教程区        
