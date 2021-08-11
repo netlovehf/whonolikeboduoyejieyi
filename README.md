@@ -73,8 +73,7 @@ passwall_TIPS：自带分流覆盖netflix、telegram等，已经满足大部分�
 * [passwall初代开发者Lienol的电报群](https://t.me/joinchat/7eoFQG0BJC1hN2Q1) (Lienol目前已经不参与passwall开发。passwall由xiaorouji接手开发中)                
 * [openclash开发者vernesong主要出没群](https://t.me/ctcgfw_openwrt_discuss)     
 * [天灵的频道](https://t.me/nanopi_r2s)                             
-* [东东油管频道](https://www.youtube.com/c/BIGdongdong/videos)        
-* [老毛子Padavan固件发布](https://t.me/pdcn1)           
+* [东东油管频道](https://www.youtube.com/c/BIGdongdong/videos)              
 
 ————————————————————    
 ## about
