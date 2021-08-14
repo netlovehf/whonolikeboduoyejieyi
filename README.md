@@ -7,14 +7,6 @@
 * [telegram汉化简体(推荐第三方)](https://t.me/setlanguage/classic-zh)     
 * [telegram汉化简体(官方测试版本)](https://t.me/setlanguage/zh-hans-raw)      
 * [telegram汉化繁体(官方测试版本)](https://t.me/setlanguage/zh-hant-raw)    
-* [单线程测速](http://speed.cloudflare.com)    
-* [搬瓦工提供IP连通性测试](https://ping.pe)   
-* [国内各省市对某网站ping检测](http://ping.chinaz.com)             
-* [查询IP地址](http://www.ip111.cn)     
-* [几种加密算法下传输速度测试脚本](./sh/ss_test.md)             
-* [OpenWrt编译入门秘籍](./fishtool.md)           
-* [GitHub各项服务状态](https://www.githubstatus.com)     
-* [主流网站的可用状态](https://downdetector.com)        
 * passwall芝麻开门命令：     
 ```
 touch /etc/config/passwall_show        
@@ -57,6 +49,14 @@ passwall_TIPS：自带分流覆盖netflix、telegram等，已经满足大部分�
 * [总频道](https://t.me/OpenWRTcn)（教程/导航）      
 * [VPS/虚拟专用服务器/小鸡](./MyFanFan.md)       
 * [机场/梯子/广义VPN](./youlian/jichang.md)            
+* [OpenWrt编译入门秘籍](./fishtool.md)    
+* [单线程测速](http://speed.cloudflare.com)    
+* [搬瓦工提供IP连通性测试](https://ping.pe)   
+* [国内各省市对某网站ping检测](http://ping.chinaz.com)             
+* [查询IP地址](http://www.ip111.cn)     
+* [几种加密算法下传输速度测试脚本](./sh/ss_test.md)                    
+* [GitHub各项服务状态](https://www.githubstatus.com)     
+* [主流网站的可用状态](https://downdetector.com)        
 
 ————————————————————        
 ## 其他推荐         
