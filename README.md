@@ -23,7 +23,7 @@ echo 0xDEADBEEF > /etc/config/google_fu_mode
 * [AXS矮小少软路由固件](https://t.me/aixiaoshao)         
     
 ———————————————————      
-## 垃圾佬刚刚好GGH硬路由专区(目前长期分发固件的设备型号：* AX6 * AX3600 * AX9000 * ACRH17 * 竞斗云2.0P2W * AC2100 * 新三D2)
+## 垃圾佬刚刚好GGH硬路由专区(目前长期分发固件的设备型号：* AX6 * AX3600 * AX9000 * ACRH17 * AC2100 
 刚刚好GGH：独宠ssrp        
 
 * [GGH刚刚好硬路由固件](https://t.me/gangganghao233)            
