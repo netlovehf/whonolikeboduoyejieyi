@@ -50,6 +50,7 @@ passwall_TIPS：自带分流覆盖netflix、telegram等，已经满足大部分�
 * [VPS/虚拟专用服务器/小鸡](./MyFanFan.md)       
 * [机场/梯子/广义VPN](./youlian/jichang.md)            
 * [OpenWrt编译入门秘籍](./fishtool.md)    
+* [banner生成器](http://www.network-science.de/ascii)        
 * [单线程测速](http://speed.cloudflare.com)    
 * [搬瓦工提供IP连通性测试](https://ping.pe)   
 * [国内各省市对某网站ping检测](http://ping.chinaz.com)             
