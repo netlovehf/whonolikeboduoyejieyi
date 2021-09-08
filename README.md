@@ -66,8 +66,8 @@ passwall_TIPS：自带分流覆盖netflix、telegram等，已经满足大部分�
 * [Lean的官方ssrpOpenWrt编译Actions](https://github.com/coolsnowwolf/lede/actions) (测试源码编译通过性目的)              
 * [Lean的稳定版OpenWrt分叉](https://github.com/coolsnowwolf/openwrt)                         
 * [ssrp开发者Lean的电报群](https://t.me/joinchat/JhKgAA6Hx1uiihA7RaTW1w)          
-* [Lean人雕语频道](https://t.me/LeanSaidWTF) （Lean官方消息/Lean发布源码更新通知......）               
-* [Lean@全体成员频道](https://t.me/LeanAtYou) （Lean权威发布潘多拉/OpenWrt固件、Lean魔改ESXI/BIOS/Windows/MacOS、破解、游戏......）       
+* [Lean人雕语 频道](https://t.me/LeanSaidWTF) （Lean官方消息/Lean发布源码更新通知......）               
+* [Lean仰加成 频道](https://t.me/LeanAtYou) （Lean权威发布潘多拉/OpenWrt固件、Lean魔改ESXI/BIOS/Windows/MacOS、破解、游戏......）       
 * [小报频道](https://t.me/FQnews) （数码资讯搬运、群友日常吐槽）         
 * [passwall初代开发者Lienol的电报群](https://t.me/joinchat/7eoFQG0BJC1hN2Q1) (Lienol目前已经不参与passwall开发。passwall由xiaorouji接手开发中)                
 * [openclash开发者vernesong主要出没群](https://t.me/ctcgfw_openwrt_discuss)     
