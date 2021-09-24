@@ -27,8 +27,6 @@ src-git OpenClash https://github.com/vernesong/OpenClash
 
 src-git lienol https://github.com/Lienol/openwrt-package
 #这是Lienol的package库，里面有一些lede里没有的包      
-
-#其他的比如argonv3主题什么的，也都可以按照人家readme文档提示添加进package文件中
 ```
 ![1](https://user-images.githubusercontent.com/73426989/121642837-a2946600-cac3-11eb-8165-0ed282687a1e.png)
 
@@ -49,7 +47,7 @@ make menuconfig
 选好设备后，接下来几个你可能刚需的设置点：       
 
 ① Target Images > Root filesystem partition size >         
-建议软路由玩家设置大些，如果你的硬盘4GB以上，那么root分区大小改为1024MB推荐，硬路由玩家无需操心。        
+建议软路由玩家设置大些，如果你的硬盘4GB以上，那么root分区大小改为500MB推荐，硬路由玩家无需操心。        
 
 ② Extra Packages > autocore、autosamba、automount、ipv6helper         
 无论软硬路由都可勾选了，没坏处。         
@@ -65,7 +63,7 @@ MTK MIPS架构的几个K2P、新三什么的必选mtwifi否则没无线信号,�
 其他的软路由无需操心wifi驱动。            
 Docker是很占用编译时间的，嫖Actions的必定不能选Docker，几乎必定超时。         
 硬路由一般爬墙插件类只勾选ssrplus : ssr client + xray (xray兼容v2ray、trojan、ss，硬路由勾选ssrp下面这两个就够用了，再多K2P一定超空间出不来固件)       
-其他的爬墙插件则不建议为硬路由勾选(注意：别忘记进passwall二层目录里把默认勾选的协议组件取消掉)           
+其他的爬墙插件则不建议为硬路由勾选。 
 还有一些adbyby plus什么的几把玩意就别为硬路由勾选了,软路由也没必要勾选，去广告本来就不可避免有误伤。  
 ![1](https://user-images.githubusercontent.com/73426989/121066548-99be3e80-c7fc-11eb-91a6-bebd60f084d9.png)             
 软路由就无脑ssrp全勾+passwall全勾+openclash全勾+其他你知道的用过的一些什么各种文件服务器、VPN服务端、qos、TTYD、CPU频率调节、uu加速器......眼熟的都可以选，不熟的别选。   
