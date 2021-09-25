@@ -6,7 +6,7 @@
 
 ### 选择op分叉主体         
 
-从设备支持范围、魔改及新写插件丰富度来看，毫无疑问推荐使用[coolsnowwolf/lede](https://github.com/coolsnowwolf/lede)         
+从编译通过率来看毫无疑问推荐（因为用的人多，所以意味着测试的人多，bug自然扫除更快更多）：[coolsnowwolf/lede](https://github.com/coolsnowwolf/lede)         
 ![1](https://user-images.githubusercontent.com/73426989/121067818-1a316f00-c7fe-11eb-9978-4fe568193fd4.png)  
 此部分[操作说明](https://github.com/coolsnowwolf/lede#readme)已经很详细了(git clone 结束后此部分结束)            
 
