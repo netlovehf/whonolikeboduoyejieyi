@@ -46,19 +46,16 @@ make menuconfig
 如何选到你的设备，例如R2S、X86_64、ACRH17这些设备怎么选到，请你谷歌一下“xxx openwrt编译”，找几个博客看一下就知道位置在哪了...        
 选好设备后，接下来几个你可能刚需的设置点：       
 
-① Target Images > Root filesystem partition size >         
-建议软路由玩家设置大些，如果你的硬盘4GB以上，那么root分区大小改为500MB推荐，硬路由玩家无需操心。        
-
-② Extra Packages > autocore、autosamba、automount、ipv6helper         
+* Extra Packages > autocore、autosamba、automount、ipv6helper         
 无论软硬路由都可勾选了，没坏处。         
 
-③ Network > Firewall > ip6tables > ip6tables-extra、ip6tables-mod-nat        
+* Network > Firewall > ip6tables > ip6tables-extra、ip6tables-mod-nat        
 都勾了。         
 
-④ LuCI > Themes >          
+* LuCI > Themes >          
 一般不建议勾选bootstrap之外的主题。      
 
-⑤ LuCI > Applications >         
+* LuCI > Applications >         
 MTK MIPS架构的几个K2P、新三什么的必选mtwifi否则没无线信号,如果没看到mtwifi选项那就无所谓了，可能大雕调整了mtwifi的位置并且默认选上了，你不用操心了。          
 其他的软路由无需操心wifi驱动。                   
 硬路由一般爬墙插件类只勾选ssrplus : ssr client + xray (xray兼容v2ray、trojan、ss，硬路由勾选ssrp下面这两个就够用了，再多K2P一定超空间出不来固件)       
@@ -66,7 +63,8 @@ MTK MIPS架构的几个K2P、新三什么的必选mtwifi否则没无线信号,�
 还有一些adbyby plus什么的几把玩意就别为硬路由勾选了,软路由也没必要勾选，去广告本来就不可避免有误伤。  
 ![1](https://user-images.githubusercontent.com/73426989/121066548-99be3e80-c7fc-11eb-91a6-bebd60f084d9.png)             
 软路由就无脑ssrp全勾+passwall全勾+openclash全勾+其他你知道的用过的一些什么各种文件服务器、VPN服务端、qos、TTYD、CPU频率调节、uu加速器......眼熟的都可以选，不熟的别选。   
-![1](https://user-images.githubusercontent.com/73426989/121642667-69f48c80-cac3-11eb-9034-e67292c4a701.png)            
+![1](https://user-images.githubusercontent.com/73426989/121642667-69f48c80-cac3-11eb-9034-e67292c4a701.png)         
+
 [我都学会了，但是我只想白嫖固件](https://boduoyejieyi666.github.io/whonolikeboduoyejieyi/)            
 ![1](https://user-images.githubusercontent.com/73426989/121065702-a42c0880-c7fb-11eb-862e-6498f28eb4d4.png)        
   
