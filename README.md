@@ -55,7 +55,7 @@ passwall_TIPS：自带分流覆盖netflix、telegram等，已经满足大部分�
 * [搬瓦工提供IP连通性测试](https://ping.pe)   
 * [国内各省市对某网站ping检测](http://ping.chinaz.com)             
 * [查询IP地址](http://www.ip111.cn)     
-* [ip反查绑定过的域名](http://tools.ipip.net/ipdomain.php)      
+* [ip反查绑定过的域名](https://tools.ipip.net/ipdomain.php)      
 * [几种加密算法下传输速度测试脚本](./sh/ss_test.md)                    
 * [GitHub各项服务状态](https://www.githubstatus.com)     
 * [主流网站的可用状态](https://downdetector.com)        
