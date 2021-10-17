@@ -17,7 +17,7 @@ echo 0xDEADBEEF > /etc/config/google_fu_mode
 ```   
 
 ———————————————————       
-## 缝合怪矮小少AXS软路由专区(目前长期分发固件的设备型号：* x86_64 * R2S * R4S)
+## 缝合怪矮小少AXS软路由专区(目前长期分发固件的设备型号：* x86_64 * R2S * R4S * R2C)
 矮小少AXS：缝合了ssrp+passwall+openclash+其他杂交品种翻墙插件+铁头娃们写的盗版及破解插件           
   
 * [AXS矮小少软路由固件](https://t.me/aixiaoshao)         
