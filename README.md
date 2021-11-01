@@ -29,19 +29,19 @@ echo 0xDEADBEEF > /etc/config/google_fu_mode
 * [GGH刚刚好硬路由固件](https://t.me/gangganghao233)            
            
 ———————————————————      
-## x86_64原生态专区     
+## x64原生态专区     
 下面的固件编译自各个爬墙插件作者原生适配自己爬墙插件的op源码分叉，避免了杂交爬墙插件和op源码分叉可能导致的bug，最大限度发挥各个爬墙插件作者的本来意图，保证你反馈的bug各个爬墙插件作者最大可能复现并解决！       
 .7z文件用 [压缩软件](https://cn.bandisoft.com/bandizip/) 解压后.img.gz可以进一步解压到.img文件（需不需要进一步解压根据实际情况而定）         
 
 ### 推荐小白及不爱折腾用户使用。多插件版本采用 [ssrp](https://github.com/fw876/helloworld) 所属 [原生OpenWrt分叉](https://github.com/coolsnowwolf/lede)       
 ssrp_TIPS：目前分流只有一个netflix，且无法手动添加更多分流规则。      
 
-* [x86_64 ssrpOpenWrt](https://t.me/ssrpOpenWRT)      
+* [x64 ssrpOpenWrt](https://t.me/ssrpOpenWRT)      
 
 ### 推荐喜爱自定义更多用户使用。多插件版本采用 [passwall](https://github.com/xiaorouji/openwrt-passwall) 所属 [原生OpenWrt分叉](https://github.com/Lienol/openwrt) 
 passwall_TIPS：自带分流覆盖netflix、telegram等，已经满足大部分人需求，且可以手动导入新的分流规则，可以说是能够完全满足所有分流人群的需求。所以passwall是最佳推荐翻墙插件。   
 
-* [x86_64 passwallOpenWrt](https://t.me/passwallOpenWRT233)      
+* [x64 passwallOpenWrt](https://t.me/passwallOpenWRT233)      
 
 ————————————————————        
 ## 入门教程区        
