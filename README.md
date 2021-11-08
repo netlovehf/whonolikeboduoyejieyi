@@ -69,7 +69,7 @@ echo 0xDEADBEEF > /etc/config/google_fu_mode
 * [passwall初代开发者Lienol的电报群](https://t.me/joinchat/7eoFQG0BJC1hN2Q1) (Lienol目前已经不参与passwall开发。passwall由xiaorouji接手开发中)                 
 * [天灵的频道](https://t.me/nanopi_r2s)                             
 * [东东油管频道](https://www.youtube.com/c/BIGdongdong/videos)       
-* [博推小报 频道](https://t.me/FQnews) （数码为主资讯搬运、群友日常吐槽记录）             
+* [博推小报频道](https://t.me/FQnews) （数码为主资讯搬运、群友日常吐槽记录）             
 
 ======================================================================================================================================================================
 ## about
