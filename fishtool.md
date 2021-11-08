@@ -72,6 +72,6 @@ MTK MIPS架构的几个K2P、新三什么的必选mtwifi否则没无线信号,�
 
 ============================================================================================            
 [我都学会了，但是我只想白嫖固件](https://boduoyejieyi666.github.io/whonolikeboduoyejieyi/)            
-![1](https://user-images.githubusercontent.com/73426989/121065702-a42c0880-c7fb-11eb-862e-6498f28eb4d4.png)        
-  
+![1](https://user-images.githubusercontent.com/73426989/121065702-a42c0880-c7fb-11eb-862e-6498f28eb4d4.png)          
 
+[返回主页](https://boduoyejieyi666.github.io/whonolikeboduoyejieyi/)        
