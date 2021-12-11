@@ -67,7 +67,7 @@ MTK MIPS架构的几个K2P、新三什么的必选mtwifi否则没无线信号,�
 其他的爬墙插件则不建议为硬路由勾选。 
 还有一些adbyby plus什么的几把玩意就别为硬路由勾选了,软路由也没必要勾选，去广告本来就不可避免有误伤。  
 ![1](https://user-images.githubusercontent.com/73426989/121066548-99be3e80-c7fc-11eb-91a6-bebd60f084d9.png)             
-软路由就无脑ssrp全勾+passwall全勾+openclash全勾+其他你知道的用过的一些什么各种文件服务器、VPN服务端、qos、TTYD、CPU频率调节、uu加速器......眼熟的都可以选，不熟的别选。   
+软路由就无脑ssrp全勾+passwall全勾+openclash全勾+其他你知道的用过的一些什么各种文件服务器、VPN服务端、qos、TTYD、uu加速器......眼熟的都可以选，不熟的别选。   
 ![1](https://user-images.githubusercontent.com/73426989/121642667-69f48c80-cac3-11eb-9034-e67292c4a701.png)        
 
 ==================================================================================            
