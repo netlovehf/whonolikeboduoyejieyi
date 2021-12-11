@@ -68,5 +68,6 @@ echo 0xDEADBEEF > /etc/config/google_fu_mode
 ============================================================================================
 ## about
 本页面打理目前由 [总裁助理](https://t.me/AudreyHB1314) 负责，有事请联系它(仅限于友链等正事。其他的BUG反馈什么的请在发布的固件说明里找到对应issues去反馈)           
-![1](https://user-images.githubusercontent.com/73426989/121643642-9f4daa00-cac4-11eb-88dc-c07ecbee6bf3.png)        
+![1](https://user-images.githubusercontent.com/73426989/145672298-f60c2d63-8c8a-4a77-aa83-3b9a44b27fb9.png)
+
 
