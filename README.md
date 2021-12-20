@@ -1,4 +1,3 @@
-![1920px-OpenWrt_Logo svg](https://user-images.githubusercontent.com/73426989/126493225-32e83f27-0b20-4702-a95e-a8b0d761184f.png)     
 # OpenWrt中国大陆       
 * 本仓库的博客页面(被墙中)：[链接](https://boduoyejieyi666.github.io/whonolikeboduoyejieyi/)            
 * 请有恩山账号的老手留言顶下这个 [帖子](https://www.right.com.cn/forum/thread-4053643-1-1.html) ：越过长城，走向世界！            
